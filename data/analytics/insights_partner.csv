@@ -1,0 +1,1 @@
+"timestamp","session_id","user_id","user_name","user_type","is_guest","department","degree","course","query","language","intent","intent_confidence","intent_description","sentiment","sentiment_confidence","lead_score","bias_level","bias_score","bias_patterns","bias_mitigation","query_length","response_time_ms"

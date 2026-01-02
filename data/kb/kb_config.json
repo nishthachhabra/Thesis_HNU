@@ -1,0 +1,9 @@
+{
+  "num_docs": 116,
+  "num_chunks": 232,
+  "embedder": "openai",
+  "local_model_name": "all-MiniLM-L6-v2",
+  "chunk_words": 250,
+  "overlap_words": 50,
+  "num_intent_responses": 58
+}

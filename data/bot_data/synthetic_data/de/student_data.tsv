@@ -1,0 +1,451 @@
+text	label
+Wie melde ich mich für Kurse an?	enrollment_inquiry
+Was ist die Anmeldefrist?	enrollment_inquiry
+Ich brauche Hilfe bei der Kursanmeldung	enrollment_inquiry
+Wann öffnet die Kursanmeldung?	enrollment_inquiry
+Wie registriere ich mich für Kurse?	enrollment_inquiry
+Kann ich mich noch nach der Frist für Kurse anmelden?	enrollment_inquiry
+Ich habe Probleme mit dem Online-Anmeldesystem	enrollment_inquiry
+Wo finde ich meinen Anmeldestatus?	enrollment_inquiry
+Wie viele Kurse kann ich pro Semester belegen?	enrollment_inquiry
+Was passiert, wenn ein Kurs voll ist, wenn ich mich anmelden will?	enrollment_inquiry
+Kann ich mich für Kurse aus verschiedenen Fachbereichen anmelden?	enrollment_inquiry
+Ich muss meine Kursanmeldung ändern, wie mache ich das?	enrollment_inquiry
+Gibt es eine Warteliste für überfüllte Kurse?	enrollment_inquiry
+Wie weiß ich, ob ich die Voraussetzungen für einen Kurs erfülle?	enrollment_inquiry
+Kann ich einen Kurs als Gasthörer ohne Credits belegen?	enrollment_inquiry
+Wie läuft die Nachmeldung ab?	enrollment_inquiry
+Ich bekomme eine Fehlermeldung bei der Anmeldung	enrollment_inquiry
+Wie melde ich mich für einen Betreuungskurs für die Abschlussarbeit an?	enrollment_inquiry
+Können internationale Studierende alle Kurse belegen?	enrollment_inquiry
+Ich muss mich für einen Intensivkurs anmelden, wo finde ich die?	enrollment_inquiry
+Wie melde ich mich für Online-Kurse an?	enrollment_inquiry
+Was ist der Unterschied zwischen Anmeldung und Einschreibung?	enrollment_inquiry
+Ich kann den Kurs nicht finden, für den ich mich anmelden möchte	enrollment_inquiry
+Wie melde ich mich für praktische Übungskurse an?	enrollment_inquiry
+Kann ich mich für Kurse auf Englisch anmelden?	enrollment_inquiry
+Ich brauche Hilfe beim Verstehen der Anmeldeprioritäten	enrollment_inquiry
+Wie melde ich mich für Sommersemesterkurse an?	enrollment_inquiry
+Kann ich mich für Kurse an Partneruniversitäten anmelden?	enrollment_inquiry
+Welche Dokumente brauche ich für die Kursanmeldung?	enrollment_inquiry
+Ich habe die Anmeldefrist verpasst, was sind meine Optionen?	enrollment_inquiry
+Wie kann ich meine Noten einsehen?	grades_inquiry
+Wo finde ich meine Prüfungsergebnisse?	grades_inquiry
+Wann werden Noten veröffentlicht?	grades_inquiry
+Ich kann meine Noten online nicht sehen	grades_inquiry
+Wie greife ich auf das Notenportal zu?	grades_inquiry
+Meine Note wurde noch nicht veröffentlicht, wann kann ich damit rechnen?	grades_inquiry
+Ich denke, es gibt einen Fehler in meiner Note, wen kontaktiere ich?	grades_inquiry
+Kann ich ein Zeugnis mit allen meinen Noten bekommen?	grades_inquiry
+Wie berechne ich meinen Notendurchschnitt?	grades_inquiry
+Wann werden normalerweise die Endnoten veröffentlicht?	grades_inquiry
+Mir fehlt eine Note vom letzten Semester	grades_inquiry
+Wie kann ich meine Notenhistorie einsehen?	grades_inquiry
+Kann ich einzelne Aufgabennoten sehen?	grades_inquiry
+Was bedeutet 'unvollständig' auf meinem Notenbericht?	grades_inquiry
+Wie beantrage ich eine Notenänderung?	grades_inquiry
+Kann ich meine Noten per E-Mail zugeschickt bekommen?	grades_inquiry
+Ich brauche meine Noten für eine Stipendiumsbewerbung	grades_inquiry
+Wo kann ich meine Zwischennoten finden?	grades_inquiry
+Wie lange dauert es, bis Professoren Noten veröffentlichen?	grades_inquiry
+Kann ich meine Klassenplatzierung basierend auf Noten sehen?	grades_inquiry
+Ich muss meine Noten für einen Transfer bestätigen lassen	grades_inquiry
+Wie greife ich auf Noten von vorherigen Semestern zu?	grades_inquiry
+Welche Notenskala wird an der HNU verwendet?	grades_inquiry
+Kann ich eine detaillierte Aufschlüsselung meiner Kursnote bekommen?	grades_inquiry
+Wie überprüfe ich, ob alle meine Noten korrekt erfasst sind?	grades_inquiry
+Ich brauche einen offiziellen Notenbericht für meinen Arbeitgeber	grades_inquiry
+Kann ich die Kommentare meines Professors zu meinen Noten sehen?	grades_inquiry
+Wie greife ich auf Noten für Online-Kurse zu?	grades_inquiry
+Was soll ich tun, wenn meine Note unfair erscheint?	grades_inquiry
+Kann ich einen Notenbericht auf Englisch bekommen?	grades_inquiry
+Ich brauche mein offizielles Zeugnis	transcript_request
+Wie beantrage ich ein Zeugnis?	transcript_request
+Wo kann ich mein Notenzeugnis bekommen?	transcript_request
+Ich brauche ein beglaubigtes Zeugnis	transcript_request
+Wie lange dauert die Zeugnisbearbeitung?	transcript_request
+Kann ich mein Zeugnis online bekommen?	transcript_request
+Welche Dokumente brauche ich für den Zeugnisantrag?	transcript_request
+Gibt es eine Gebühr für offizielle Zeugnisse?	transcript_request
+Kann ich sofort ein inoffizielles Zeugnis bekommen?	transcript_request
+Wie beantrage ich Zeugnisse für mehrere Semester?	transcript_request
+Ich brauche mein Zeugnis direkt an eine andere Universität geschickt	transcript_request
+Kann ich eine digitale Kopie meines Zeugnisses bekommen?	transcript_request
+Was ist der Unterschied zwischen offiziellen und inoffiziellen Zeugnissen?	transcript_request
+Ich brauche mein Zeugnis auf Englisch für internationale Bewerbungen	transcript_request
+Wie viele Kopien des Zeugnisses kann ich anfordern?	transcript_request
+Kann ich meinen Zeugnisantrag beschleunigen?	transcript_request
+Ich brauche mein Zeugnis für eine Bewerbung, wie schnell kann ich es bekommen?	transcript_request
+Wo hole ich mein bearbeitetes Zeugnis ab?	transcript_request
+Kann jemand anderes mein Zeugnis für mich abholen?	transcript_request
+Ich brauche ein Teilzeugnis mit nur einigen Kursen	transcript_request
+Wie verfolge ich den Status meines Zeugnisantrags?	transcript_request
+Kann ich über die HNU Zeugnisse von anderen Institutionen bekommen?	transcript_request
+Ich brauche mein Zeugnis apostilliert für internationale Verwendung	transcript_request
+Was ist, wenn ein Fehler auf meinem Zeugnis ist?	transcript_request
+Kann ich ein Zeugnis bekommen, während ich noch eingeschrieben bin?	transcript_request
+Ich brauche mein Zeugnis für Bewerbungen für Graduiertenprogramme	transcript_request
+Wie beantrage ich Zeugnisse für die Bewertung von Transferpunkten?	transcript_request
+Kann ich mein Zeugnis in mehreren Sprachen bekommen?	transcript_request
+Ich habe mein vorheriges Zeugnis verloren, kann ich einen Ersatz bekommen?	transcript_request
+Wie weit zurück können Zeugnisaufzeichnungen gehen?	transcript_request
+Ich habe meinen Studentenausweis verloren	student_id_card
+Wie bekomme ich einen neuen Studentenausweis?	student_id_card
+Ersatzverfahren für Studentenausweis	student_id_card
+Mein Studentenausweis funktioniert nicht	student_id_card
+Wo kann ich den Studentenausweis verlängern?	student_id_card
+Kann ich einen vorläufigen Studentenausweis bekommen?	student_id_card
+Wie viel kostet ein Ersatz-Studentenausweis?	student_id_card
+Mein Studentenausweis ist beschädigt	student_id_card
+Ich brauche ein neues Foto für meinen Studentenausweis	student_id_card
+Wie lange dauert es, einen neuen Studentenausweis zu bekommen?	student_id_card
+Wo melde ich einen gestohlenen Studentenausweis?	student_id_card
+Kann ich meinen Studentenausweis an anderen Universitäten nutzen?	student_id_card
+Mein Studentenausweis ist abgelaufen, wie verlängere ich ihn?	student_id_card
+Ich brauche meinen Studentenausweis für Prüfungen morgen	student_id_card
+Kann ich einen digitalen Studentenausweis bekommen?	student_id_card
+Wie aktiviere ich meinen neuen Studentenausweis?	student_id_card
+Mein Studentenausweis lässt sich in der Bibliothek nicht scannen	student_id_card
+Ich habe meinen Studentenausweis vergessen, kann ich trotzdem Prüfungen machen?	student_id_card
+Wie aktualisiere ich meine Informationen auf meinem Studentenausweis?	student_id_card
+Kann ich einen Backup-Studentenausweis bekommen?	student_id_card
+Was soll ich tun, wenn mein Studentenausweis deaktiviert ist?	student_id_card
+Wie ersetze ich meinen Studentenausweis, wenn ich im Ausland studiere?	student_id_card
+Kann ich während der Orientierungswoche einen Studentenausweis bekommen?	student_id_card
+Mein Studentenausweis-Magnetstreifen ist abgenutzt	student_id_card
+Ich muss meinen Namen auf meinem Studentenausweis ändern	student_id_card
+Kann ich einen Studentenausweis mit Barrierefreiheitsmerkmalen bekommen?	student_id_card
+Wie bekomme ich als Austauschstudent einen Studentenausweis?	student_id_card
+Welche Dienste benötigen einen Studentenausweis?	student_id_card
+Kann ich meinen Studentenausweis für öffentliche Verkehrsmittel nutzen?	student_id_card
+Wie bestätige ich meinen Studentenstatus mit meinem Ausweis?	student_id_card
+Wie greife ich auf Bibliotheksressourcen zu?	library_services
+Öffnungszeiten der Bibliothek?	library_services
+Wie leihe ich Bücher aus?	library_services
+Kann nicht auf Online-Bibliothek zugreifen	library_services
+Hilfe beim Buchreservierungssystem	library_services
+Wie verlängere ich Bibliotheksbücher?	library_services
+Ich habe überfällige Bibliotheksbücher	library_services
+Kann ich Bücher aus anderen Bibliotheken anfordern?	library_services
+Wie greife ich auf E-Books zu?	library_services
+Bibliotheks-Lernraumreservierung	library_services
+Wie benutze ich die Bibliotheksdrucker?	library_services
+Kann ich Essen in die Bibliothek bringen?	library_services
+Wie greife ich auf akademische Datenbanken zu?	library_services
+Bibliotheksgebühren-Zahlungsverfahren	library_services
+Kann ich eine Bibliotheksschulung bekommen?	library_services
+Wie zitiere ich Quellen korrekt?	library_services
+Fernleiheverfahren	library_services
+Kann ich Bibliothekscomputer nutzen?	library_services
+Wie suche ich nach Zeitschriftenartikeln?	library_services
+Bibliotheks-Gruppenlernbereiche	library_services
+Wie greife ich von zu Hause auf digitale Ressourcen zu?	library_services
+Kann ich Laptops aus der Bibliothek ausleihen?	library_services
+Was ist die Ruhe-Lernrichtlinie der Bibliothek?	library_services
+Wie greife ich auf Archive und Sondersammlungen zu?	library_services
+Kann ich Hilfe bei Forschungsprojekten bekommen?	library_services
+Wie nutze ich die Scanservices der Bibliothek?	library_services
+Welche Datenbanken sind für mein Hauptfach verfügbar?	library_services
+Kann ich Bücher online reservieren?	library_services
+Wie bekomme ich eine Bibliothekseinführung?	library_services
+Was sind die Ausleihgrenzen der Bibliothek?	library_services
+Wann sind meine Prüfungen geplant?	exam_scheduling
+Wie melde ich mich für Prüfungen an?	exam_scheduling
+Informationen zum Prüfungsplan	exam_scheduling
+Ich habe die Prüfungsanmeldung verpasst	exam_scheduling
+Informationen zum Prüfungsort	exam_scheduling
+Kann ich mein Prüfungsdatum ändern?	exam_scheduling
+Was muss ich zu Prüfungen mitbringen?	exam_scheduling
+Prüfungsregeln und -vorschriften	exam_scheduling
+Kann ich Nachholprüfungen machen?	exam_scheduling
+Wie bereite ich mich auf mündliche Prüfungen vor?	exam_scheduling
+Was passiert, wenn ich während Prüfungen krank bin?	exam_scheduling
+Bekanntgabe von Prüfungsergebnissen	exam_scheduling
+Kann ich zusätzliche Zeit für Prüfungen bekommen?	exam_scheduling
+Wie kann ich Prüfungsergebnisse anfechten?	exam_scheduling
+Lösung von Prüfungskonflikten	exam_scheduling
+Kann ich Prüfungen früher ablegen?	exam_scheduling
+Was ist die Wiederholungsprüfungsrichtlinie?	exam_scheduling
+Wie greife ich auf alte Prüfungsunterlagen zu?	exam_scheduling
+Prüfungsunterstützung für Behinderungen	exam_scheduling
+Kann ich einen Taschenrechner zu Prüfungen mitbringen?	exam_scheduling
+Wie lange vor Prüfungen werden Zeitpläne veröffentlicht?	exam_scheduling
+Kann ich einen personalisierten Prüfungsplan bekommen?	exam_scheduling
+Was tun, wenn es einen Prüfungszeitkonflikt gibt?	exam_scheduling
+Wie finde ich meine Prüfungsplatznummer?	exam_scheduling
+Kann ich Wasser zur Prüfung mitbringen?	exam_scheduling
+Was ist die Richtlinie für Toilettenpausen während Prüfungen?	exam_scheduling
+Wie beantrage ich Prüfungsunterstützung?	exam_scheduling
+Kann ich meine Prüfungsarbeit nach der Bewertung einsehen?	exam_scheduling
+Was passiert, wenn ich zu spät zur Prüfung komme?	exam_scheduling
+Wie ziehe ich mich nach der Anmeldung von einer Prüfung zurück?	exam_scheduling
+Wie beantrage ich finanzielle Hilfe?	financial_aid
+Informationen zu Studiendarlehen	financial_aid
+Stipendienmöglichkeiten	financial_aid
+BAföG-Antrag Hilfe	financial_aid
+Ratenzahlungsoptionen	financial_aid
+Wann ist die Frist für finanzielle Hilfe?	financial_aid
+Welche Dokumente brauche ich für finanzielle Hilfe?	financial_aid
+Können internationale Studierende finanzielle Hilfe bekommen?	financial_aid
+Wie wird finanzielle Hilfe berechnet?	financial_aid
+Kann ich Notfall-Finanzhilfe bekommen?	financial_aid
+Informationen zum Werkstudentenprogramm	financial_aid
+Wie kann ich gegen eine Finanzhilfe-Entscheidung Einspruch einlegen?	financial_aid
+Wann erhalte ich meine finanzielle Hilfe?	financial_aid
+Kann ich Hilfe für Sommerkurse bekommen?	financial_aid
+Wie wirkt sich finanzielle Hilfe auf meine Steuern aus?	financial_aid
+Kann ich finanzielle Hilfe während des Auslandsstudiums bekommen?	financial_aid
+Was passiert, wenn sich das Familieneinkommen ändert?	financial_aid
+Wie erhalte ich die Berechtigung für finanzielle Hilfe?	financial_aid
+Kann ich Hilfe für Lebenshaltungskosten bekommen?	financial_aid
+Was ist die maximale finanzielle Hilfe, die ich erhalten kann?	financial_aid
+Wie verlängere ich finanzielle Hilfe für das nächste Jahr?	financial_aid
+Kann ich finanzielle Hilfe für Teilzeitstudium bekommen?	financial_aid
+Welche Zuschüsse gibt es an der HNU?	financial_aid
+Wie finde ich externe Stipendien?	financial_aid
+Kann ich verschiedene Arten von finanzieller Hilfe kombinieren?	financial_aid
+Was ist, wenn ich mich nicht für finanzielle Hilfe qualifiziere?	financial_aid
+Wie melde ich Änderungen in der finanziellen Situation?	financial_aid
+Kann ich Finanzberatung bekommen?	financial_aid
+Was ist der Unterschied zwischen Zuschüssen und Darlehen?	financial_aid
+Wie vermeide ich Finanzhilfe-Betrug?	financial_aid
+Verfügbarkeit von Studentenwohnungen?	housing_dormitory
+Wie beantrage ich einen Wohnheimplatz?	housing_dormitory
+Informationen zur Zimmerzuteilung	housing_dormitory
+Frist für Wohnheimantrag	housing_dormitory
+Kontaktinformationen Wohnheim	housing_dormitory
+Kann ich meinen Mitbewohner wählen?	housing_dormitory
+Was ist in den Wohnheimgebühren enthalten?	housing_dormitory
+Wie melde ich Wartungsprobleme im Wohnheim?	housing_dormitory
+Kann ich ein Einzelzimmer bekommen?	housing_dormitory
+Was sind die Wohnheimregeln?	housing_dormitory
+Wie kündige ich den Wohnheimvertrag?	housing_dormitory
+Kann ich während des Semesters das Zimmer wechseln?	housing_dormitory
+Welche Kücheneinrichtungen sind verfügbar?	housing_dormitory
+Sind Haustiere in Wohnheimen erlaubt?	housing_dormitory
+Wie beantrage ich Hilfe für Wohnungen außerhalb des Campus?	housing_dormitory
+Was soll ich ins Wohnheim mitbringen?	housing_dormitory
+Wie melde ich Gäste/Besucher an?	housing_dormitory
+Gibt es geschlechtsspezifische Wohnoptionen?	housing_dormitory
+Was ist die Lärmschutzrichtlinie in Wohnheimen?	housing_dormitory
+Wie bekomme ich Wohnraum für Sommersemester?	housing_dormitory
+Können internationale Studierende prioritären Wohnraum bekommen?	housing_dormitory
+Welche Sicherheitsmaßnahmen gibt es in Wohnheimen?	housing_dormitory
+Wie beantrage ich Familienwohnungen?	housing_dormitory
+Gibt es drogenfreie Wohnoptionen?	housing_dormitory
+Welches Internet/WLAN ist in Wohnheimen verfügbar?	housing_dormitory
+Wie beantrage ich Wohnraum für Graduierte?	housing_dormitory
+Welche Verkehrsmittel sind von Wohnheimen verfügbar?	housing_dormitory
+Kann ich meine Sachen während der Pausen lagern?	housing_dormitory
+Wie bekomme ich Wohn-Barrierefreiheits-Unterstützung?	housing_dormitory
+Was passiert, wenn ich Wohnheimeigentum beschädige?	housing_dormitory
+Hilfe bei der Praktikumssuche	internship_support
+Praktikumsanforderungen für mein Studium	internship_support
+Wie registriere ich Praktikumspunkte?	internship_support
+Kontakt Praktikumskoordinator	internship_support
+Praktikumsvereinbarungsformulare	internship_support
+Kann ich ein Praktikum im Ausland machen?	internship_support
+Wie finde ich bezahlte Praktika?	internship_support
+Was ist die Mindestdauer für Praktika?	internship_support
+Kann ich akademische Credits für Praktika bekommen?	internship_support
+Wie dokumentiere ich Praktikumserfahrungen?	internship_support
+Was ist, wenn mein Praktikum nicht funktioniert?	internship_support
+Kann ich mehrere Praktika machen?	internship_support
+Wie bereite ich mich auf Praktikumsinterviews vor?	internship_support
+Was sind die Praktikumsbewertungskriterien?	internship_support
+Kann ich ein virtuelles/Remote-Praktikum machen?	internship_support
+Wie finde ich Praktika in meinem Bereich?	internship_support
+Welche Unternehmen arbeiten mit der HNU für Praktika zusammen?	internship_support
+Wie schreibe ich Praktikumsberichte?	internship_support
+Können Praktika zu Stellenangeboten führen?	internship_support
+Welche Versicherung brauche ich für Praktika?	internship_support
+Wie balanciere ich Praktika mit Kursarbeit?	internship_support
+Kann ich während des Studienjahres Praktika machen?	internship_support
+Welche Fähigkeiten sollte ich vor dem Praktikum entwickeln?	internship_support
+Wie verhandle ich Praktikumsbedingungen?	internship_support
+Kann ich Praktikumsplätze wechseln?	internship_support
+Welche Unterstützung gibt es während Praktika?	internship_support
+Wie netzwerke ich effektiv während Praktika?	internship_support
+Kann ich Finanzierung für unbezahlte Praktika bekommen?	internship_support
+Was ist der Zeitplan für Praktikumsbewerbungen?	internship_support
+Wie mache ich das Beste aus meiner Praktikumserfahrung?	internship_support
+Studentische Beratungsdienste	student_services
+Termin für Studienberatung	student_services
+Studentische Unterstützungsdienste	student_services
+Ressourcen für psychische Gesundheit	student_services
+Hilfe bei der Berufsorientierung	student_services
+Wie greife ich auf Behindertenservices zu?	student_services
+Studentische Interessensvertretung	student_services
+Peer-Tutoring-Programme	student_services
+Lernfähigkeiten-Workshops	student_services
+Zeitmanagement-Hilfe	student_services
+Stressmanagement-Ressourcen	student_services
+Wie melde ich akademisches Fehlverhalten?	student_services
+Studentische Beschwerdeververfahren	student_services
+Notfall-Unterstützungsdienste	student_services
+Services für internationale Studierende	student_services
+LGBTQ+-Studentenressourcen	student_services
+Religiöse und spirituelle Dienste	student_services
+Studentische Wellness-Programme	student_services
+Konfliktlösungsdienste	student_services
+Unterstützung bei akademischer Bewährung	student_services
+Services für Transfer-Studierende	student_services
+Unterstützung für Erstgenerationen-Studierende	student_services
+Studentische Führungsmöglichkeiten	student_services
+Gemeinnützige Programme	student_services
+Unterstützung für Studentenorganisationen	student_services
+Veranstaltungsplanungsunterstützung	student_services
+Studentische Medienressourcen	student_services
+Services für Graduierte	student_services
+Ressourcen für Studenten-Eltern	student_services
+Kriseninterventionsdienste	student_services
+Studentenclubs und -organisationen	campus_life
+Campus-Veranstaltungskalender	campus_life
+Sport- und Freizeiteinrichtungen	campus_life
+Informationen zur Studentenvertretung	campus_life
+Campus-Essensoptionen	campus_life
+Transport auf dem Campus	campus_life
+Campus-Sicherheit und Schutz	campus_life
+Studentenzeitung und Medien	campus_life
+Freiwilligenmöglichkeiten	campus_life
+Kulturelle Veranstaltungen und Programme	campus_life
+Wie gründe ich einen neuen Club?	campus_life
+Zugang zum Campus-Fitnesscenter	campus_life
+Studienauslandsprogramme	campus_life
+Informationen zum Studentenparkplatz	campus_life
+Öffnungszeiten des Campus-Buchladens	campus_life
+Fundsachen-Services	campus_life
+Campus-WLAN-Zugang	campus_life
+Studentenrabatt-Programme	campus_life
+Campus-Nachhaltigkeitsinitiativen	campus_life
+Alumni-Networking-Veranstaltungen	campus_life
+Campus-Führungen für Besucher	campus_life
+Studentische Beschäftigungsmöglichkeiten	campus_life
+Campus-Notfallverfahren	campus_life
+Religiöse Dienste auf dem Campus	campus_life
+Campus-Kunst und Kulturstätten	campus_life
+Studentische Gesundheitsdienste	campus_life
+Campus-Kinderbetreuungsdienste	campus_life
+Fahrradverleih und -wartung	campus_life
+Campus-Recycling-Programme	campus_life
+Studentisches Feedback und Vorschläge	campus_life
+WLAN-Verbindungsprobleme	technology_support
+Studenten-E-Mail-Setup	technology_support
+Hilfe beim Lernmanagementsystem	technology_support
+Zugang zu Campus-Computerlaboren	technology_support
+Software-Download und Lizenzierung	technology_support
+Passwort-Reset für Studentenkonten	technology_support
+Technische Probleme mit Online-Kursen	technology_support
+Druckservices auf dem Campus	technology_support
+Mobile App-Unterstützung	technology_support
+Videokonferenz-Hilfe	technology_support
+Wie verbinde ich mich mit dem Campus-Netzwerk?	technology_support
+Anmeldeprobleme beim Studentenportal	technology_support
+Dateifreigabe und Cloud-Speicher	technology_support
+Antivirus-Software für Studenten	technology_support
+Technologie-Training-Workshops	technology_support
+Richtlinien für Geräteverleih	technology_support
+Computer-Reparaturdienste	technology_support
+Schulung für akademische Software	technology_support
+Digitale Barrierefreiheits-Unterstützung	technology_support
+Technischer Support für Online-Prüfungen	technology_support
+Virtuelle Klassenzimmer-Unterstützung	technology_support
+Technologieanforderungen für Studenten	technology_support
+Campus-Netzwerksicherheit	technology_support
+Multi-Faktor-Authentifizierung-Setup	technology_support
+Meldung von Technologie-Vorfällen	technology_support
+Informationen zum Studentendatenschutz	technology_support
+Fernzugriff auf Campus-Ressourcen	technology_support
+Informationen zu Technologiegebühren	technology_support
+Laptop-Empfehlungen für Studenten	technology_support
+Technologie-Orientierung für neue Studenten	technology_support
+Wie plane ich einen Studienberatungstermin?	academic_advising
+Hilfe bei der Studienplanung	academic_advising
+Hilfe bei der Kurswahl	academic_advising
+Prozess der Hauptfach-Erklärung	academic_advising
+Informationen zu Nebenfach-Programmen	academic_advising
+Bewertung von Transferpunkten	academic_advising
+Überprüfung der Abschlussanforderungen	academic_advising
+Überwachung des akademischen Fortschritts	academic_advising
+Entwicklung des Studienplans	academic_advising
+Berufswegberatung	academic_advising
+Vorbereitung auf Graduiertenschule	academic_advising
+Akademische Zielsetzung	academic_advising
+Analyse der Studiendauer	academic_advising
+Informationen zu Kursvoraussetzungen	academic_advising
+Klärung akademischer Richtlinien	academic_advising
+Machbarkeit eines Doppelstudiums	academic_advising
+Akademische Planung für Auslandsstudium	academic_advising
+Unterstützung bei akademischer Bewährung	academic_advising
+Anforderungen für Honors-Programme	academic_advising
+Möglichkeiten für eigenständiges Studium	academic_advising
+Beratung für Forschungsprojekte	academic_advising
+Abschlussarbeit oder Capstone-Planung	academic_advising
+Fristen im akademischen Kalender	academic_advising
+Lösung von Registrierungsblockaden	academic_advising
+Akademische Berufungsverfahren	academic_advising
+Fakultäts-Mentoring-Programme	academic_advising
+Berufsentwicklungsplanung	academic_advising
+Fähigkeitsbewertung und -entwicklung	academic_advising
+Empfehlungen für akademische Ressourcen	academic_advising
+Strategien für studentischen Erfolg	academic_advising
+Kurskatalog und -beschreibungen	course_information
+Informationen zum Stundenplan	course_information
+Überprüfung der Kursverfügbarkeit	course_information
+Voraussetzungsanforderungen	course_information
+Kurs-Creditstunden	course_information
+Informationen zum Kursformat	course_information
+Professor und Dozenten-Details	course_information
+Zugang zum Kurslehrplan	course_information
+Lehrbuchanforderungen	course_information
+Informationen zu Kursgebühren	course_information
+Labor- und Diskussionsgruppen	course_information
+Kurskapazität und Einschreibung	course_information
+Wartelisten-Verfahren	course_information
+Kursersatz-Anträge	course_information
+Informationen zu quergelisteten Kursen	course_information
+Online- vs Präsenzkurse	course_information
+Intensiv- und Wochenendkurse	course_information
+Sommerkurs-Angebote	course_information
+Kursbewertung und -ratings	course_information
+Spezialkurse	course_information
+Zugang zu Graduierten-Kursen	course_information
+Interdisziplinäre Programmkurse	course_information
+Unterrichtssprache	course_information
+Fristen für Kursrücktritt	course_information
+Bestanden/Durchgefallen-Bewertungsoptionen	course_information
+Kurswiederholungsrichtlinien	course_information
+Gasthörer-Verfahren	course_information
+Feldstudien- und Praktikumskurse	course_information
+Kurs-Lernergebnisse	course_information
+Anforderungen an das akademische Niveau	course_information
+Termine für Berufsberatung	career_services
+Hilfe beim Lebenslauf-Schreiben	career_services
+Strategien für die Jobsuche	career_services
+Vorbereitung auf Vorstellungsgespräche	career_services
+Informationen zu Jobmessen	career_services
+Networking-Möglichkeiten	career_services
+LinkedIn-Profil-Optimierung	career_services
+Unterstützung bei Branchenforschung	career_services
+Beratung zur Gehaltsverhandlung	career_services
+Entwicklung beruflicher Fähigkeiten	career_services
+Tipps zum Anschreiben	career_services
+Bewerbungsprozess	career_services
+Berufliche Bewertungstests	career_services
+Alumni-Mentoring-Programme	career_services
+Übergang vom Praktikum zum Job	career_services
+Graduiertenschule vs Berufsentscheidungen	career_services
+Beratung zur professionellen Garderobe	career_services
+Analyse von Arbeitsmarkttrends	career_services
+Unterstützung bei der Portfolio-Entwicklung	career_services
+Beratung zu beruflichen Referenzen	career_services
+Unterstützung beim Berufswechsel	career_services
+Ressourcen für Unternehmertum	career_services
+Professionelle Kommunikationsfähigkeiten	career_services
+Strategien für Work-Life-Balance	career_services
+Vorbereitung auf Remote-Arbeit	career_services
+Beratung zu beruflichen Zertifizierungen	career_services
+Branchenspezifische Jobsuche	career_services
+Mock-Interview-Sitzungen	career_services
+Workshops zur Berufserkundung	career_services
+Jobvermittlung nach dem Abschluss	career_services

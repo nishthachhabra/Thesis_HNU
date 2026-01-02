@@ -1,0 +1,17 @@
+{
+  "total_documents": 4608,
+  "training_queries": 4580,
+  "intent_responses": 28,
+  "embedding_model": "text-embedding-3-small",
+  "embedding_provider": "openai",
+  "collection_name": "hnu_knowledge_base",
+  "languages": [
+    "en",
+    "de"
+  ],
+  "user_types": [
+    "employee",
+    "student",
+    "partner"
+  ]
+}

@@ -1,0 +1,451 @@
+text	label
+How do I enroll in courses?	enrollment_inquiry
+What's the enrollment deadline?	enrollment_inquiry
+I need help with course registration	enrollment_inquiry
+When does course enrollment open?	enrollment_inquiry
+How to register for classes?	enrollment_inquiry
+Can I still enroll in courses after the deadline?	enrollment_inquiry
+I'm having trouble with the online enrollment system	enrollment_inquiry
+Where do I find my enrollment status?	enrollment_inquiry
+How many courses can I enroll in per semester?	enrollment_inquiry
+What happens if a course is full when I try to enroll?	enrollment_inquiry
+Can I enroll in courses from different departments?	enrollment_inquiry
+I need to change my course enrollment, how do I do that?	enrollment_inquiry
+Is there a waiting list for overbooked courses?	enrollment_inquiry
+How do I know if I meet the prerequisites for a course?	enrollment_inquiry
+Can I audit a class without enrolling for credit?	enrollment_inquiry
+What's the process for late enrollment?	enrollment_inquiry
+I'm getting an error message during enrollment	enrollment_inquiry
+How do I enroll in a thesis supervision course?	enrollment_inquiry
+Can international students enroll in all courses?	enrollment_inquiry
+I need to enroll in an intensive course, where do I find those?	enrollment_inquiry
+How do I enroll in online courses?	enrollment_inquiry
+What's the difference between enrollment and registration?	enrollment_inquiry
+I can't find the course I want to enroll in	enrollment_inquiry
+How do I enroll in practical training courses?	enrollment_inquiry
+Can I enroll in courses taught in English?	enrollment_inquiry
+I need help understanding the enrollment priorities	enrollment_inquiry
+How do I enroll in summer semester courses?	enrollment_inquiry
+Can I enroll in courses at partner universities?	enrollment_inquiry
+What documents do I need for course enrollment?	enrollment_inquiry
+I missed the enrollment period, what are my options?	enrollment_inquiry
+How can I check my grades?	grades_inquiry
+Where do I find my exam results?	grades_inquiry
+When will grades be published?	grades_inquiry
+I can't see my grades online	grades_inquiry
+How to access grade portal?	grades_inquiry
+My grade hasn't been posted yet, when should I expect it?	grades_inquiry
+I think there's an error in my grade, who do I contact?	grades_inquiry
+Can I get a transcript with all my grades?	grades_inquiry
+How do I calculate my GPA?	grades_inquiry
+When are final grades typically released?	grades_inquiry
+I'm missing a grade from last semester	grades_inquiry
+How can I view my grade history?	grades_inquiry
+Can I see individual assignment grades?	grades_inquiry
+What does 'incomplete' mean on my grade report?	grades_inquiry
+How do I request a grade change?	grades_inquiry
+Can I get my grades emailed to me?	grades_inquiry
+I need my grades for a scholarship application	grades_inquiry
+Where can I find my midterm grades?	grades_inquiry
+How long does it take for professors to post grades?	grades_inquiry
+Can I see my class ranking based on grades?	grades_inquiry
+I need to verify my grades for transfer purposes	grades_inquiry
+How do I access grades from previous semesters?	grades_inquiry
+What's the grading scale used at HNU?	grades_inquiry
+Can I get a detailed breakdown of my course grade?	grades_inquiry
+How do I check if all my grades are recorded correctly?	grades_inquiry
+I need an official grade report for my employer	grades_inquiry
+Can I see my professor's comments on my grades?	grades_inquiry
+How do I access grades for online courses?	grades_inquiry
+What should I do if my grade seems unfair?	grades_inquiry
+Can I get a grade report in English?	grades_inquiry
+I need my official transcript	transcript_request
+How to request transcript?	transcript_request
+Where can I get my grade transcript?	transcript_request
+I need certified transcript	transcript_request
+How long for transcript processing?	transcript_request
+Can I get my transcript online?	transcript_request
+What documents do I need for transcript request?	transcript_request
+Is there a fee for official transcripts?	transcript_request
+Can I get an unofficial transcript immediately?	transcript_request
+How do I request transcripts for multiple semesters?	transcript_request
+I need my transcript sent directly to another university	transcript_request
+Can I get a digital copy of my transcript?	transcript_request
+What's the difference between official and unofficial transcripts?	transcript_request
+I need my transcript in English for international applications	transcript_request
+How many copies of transcript can I request?	transcript_request
+Can I expedite my transcript request?	transcript_request
+I need my transcript for a job application, how quickly can I get it?	transcript_request
+Where do I pick up my processed transcript?	transcript_request
+Can someone else collect my transcript on my behalf?	transcript_request
+I need a partial transcript with just some courses?	transcript_request
+How do I track the status of my transcript request?	transcript_request
+Can I get transcripts from previous institutions through HNU?	transcript_request
+I need my transcript apostilled for international use	transcript_request
+What if there's an error on my transcript?	transcript_request
+Can I get a transcript while I'm still enrolled?	transcript_request
+I need my transcript for graduate school applications	transcript_request
+How do I request transcripts for transfer credit evaluation?	transcript_request
+Can I get my transcript in multiple languages?	transcript_request
+I lost my previous transcript, can I get a replacement?	transcript_request
+How far back can transcript records go?	transcript_request
+I lost my student ID card	student_id_card
+How to get new student card?	student_id_card
+Student ID replacement process	student_id_card
+My student card is not working	student_id_card
+Where to renew student ID?	student_id_card
+Can I get a temporary student ID?	student_id_card
+How much does a replacement student card cost?	student_id_card
+My student ID card is damaged	student_id_card
+I need a new photo for my student ID	student_id_card
+How long does it take to get a new student card?	student_id_card
+Where do I report a stolen student ID?	student_id_card
+Can I use my student ID at other universities?	student_id_card
+My student ID expired, how do I renew it?	student_id_card
+I need my student ID for exams tomorrow	student_id_card
+Can I get a digital student ID?	student_id_card
+How do I activate my new student card?	student_id_card
+My student ID card won't scan in the library	student_id_card
+I forgot my student ID, can I still take exams?	student_id_card
+How do I update my information on my student ID?	student_id_card
+Can I get a backup student ID card?	student_id_card
+What should I do if my student ID is deactivated?	student_id_card
+How do I replace my student ID if I'm studying abroad?	student_id_card
+Can I get a student ID during orientation week?	student_id_card
+My student ID magnetic stripe is worn out	student_id_card
+I need to change my name on my student ID	student_id_card
+Can I get a student ID with accessibility features?	student_id_card
+How do I get a student ID as an exchange student?	student_id_card
+What services require a student ID card?	student_id_card
+Can I use my student ID for public transportation?	student_id_card
+How do I validate my student status with my ID?	student_id_card
+How to access library resources?	library_services
+Library opening hours?	library_services
+How to borrow books?	library_services
+Can't access online library	library_services
+Book reservation system help	library_services
+How to renew library books?	library_services
+I have overdue library books	library_services
+Can I request books from other libraries?	library_services
+How to access e-books?	library_services
+Library study room booking	library_services
+How to use library printers?	library_services
+Can I bring food into the library?	library_services
+How to access academic databases?	library_services
+Library fine payment process	library_services
+Can I get library training?	library_services
+How to cite sources correctly?	library_services
+Interlibrary loan process	library_services
+Can I use library computers?	library_services
+How to search for journal articles?	library_services
+Library group study areas	library_services
+How to access digital resources from home?	library_services
+Can I borrow laptops from the library?	library_services
+What's the library's quiet study policy?	library_services
+How to access archives and special collections?	library_services
+Can I get help with research projects?	library_services
+How to use the library's scanning services?	library_services
+What databases are available for my major?	library_services
+Can I reserve books online?	library_services
+How to get library orientation?	library_services
+What are the library borrowing limits?	library_services
+When are my exams scheduled?	exam_scheduling
+How to register for exams?	exam_scheduling
+Exam timetable information	exam_scheduling
+I missed exam registration	exam_scheduling
+Exam venue information	exam_scheduling
+Can I change my exam date?	exam_scheduling
+What do I need to bring to exams?	exam_scheduling
+Exam rules and regulations	exam_scheduling
+Can I take makeup exams?	exam_scheduling
+How to prepare for oral exams?	exam_scheduling
+What happens if I'm sick during exams?	exam_scheduling
+Exam result announcement	exam_scheduling
+Can I get extra time for exams?	exam_scheduling
+How to appeal exam results?	exam_scheduling
+Exam conflict resolution	exam_scheduling
+Can I take exams early?	exam_scheduling
+What's the exam retake policy?	exam_scheduling
+How to access past exam papers?	exam_scheduling
+Exam accommodation for disabilities	exam_scheduling
+Can I bring a calculator to exams?	exam_scheduling
+How long before exams are schedules published?	exam_scheduling
+Can I get a personalized exam schedule?	exam_scheduling
+What to do if there's an exam time conflict?	exam_scheduling
+How to find my exam seat number?	exam_scheduling
+Can I bring water to the exam?	exam_scheduling
+What's the policy on bathroom breaks during exams?	exam_scheduling
+How to request exam accommodations?	exam_scheduling
+Can I see my exam paper after grading?	exam_scheduling
+What happens if I arrive late to an exam?	exam_scheduling
+How to withdraw from an exam after registration?	exam_scheduling
+How to apply for financial aid?	financial_aid
+Student loan information	financial_aid
+Scholarship opportunities	financial_aid
+BAföG application help	financial_aid
+Payment plan options	financial_aid
+When is the financial aid deadline?	financial_aid
+What documents do I need for financial aid?	financial_aid
+Can international students get financial aid?	financial_aid
+How is financial aid calculated?	financial_aid
+Can I get emergency financial assistance?	financial_aid
+Work-study program information	financial_aid
+How to appeal financial aid decision?	financial_aid
+When will I receive my financial aid?	financial_aid
+Can I get aid for summer courses?	financial_aid
+How does financial aid affect my taxes?	financial_aid
+Can I get financial aid while studying abroad?	financial_aid
+What happens if my family income changes?	financial_aid
+How to maintain financial aid eligibility?	financial_aid
+Can I get aid for living expenses?	financial_aid
+What's the maximum financial aid I can receive?	financial_aid
+How to renew financial aid for next year?	financial_aid
+Can I get financial aid for part-time study?	financial_aid
+What grants are available at HNU?	financial_aid
+How to find external scholarships?	financial_aid
+Can I combine different types of financial aid?	financial_aid
+What if I don't qualify for financial aid?	financial_aid
+How to report changes in financial situation?	financial_aid
+Can I get financial counseling?	financial_aid
+What's the difference between grants and loans?	financial_aid
+How to avoid financial aid fraud?	financial_aid
+Student housing availability?	housing_dormitory
+How to apply for dormitory?	housing_dormitory
+Room assignment information	housing_dormitory
+Housing application deadline	housing_dormitory
+Dormitory contact information	housing_dormitory
+Can I choose my roommate?	housing_dormitory
+What's included in dormitory fees?	housing_dormitory
+How to report housing maintenance issues?	housing_dormitory
+Can I get a single room?	housing_dormitory
+What are the dormitory rules?	housing_dormitory
+How to cancel housing contract?	housing_dormitory
+Can I switch rooms during the semester?	housing_dormitory
+What kitchen facilities are available?	housing_dormitory
+Are pets allowed in dormitories?	housing_dormitory
+How to apply for off-campus housing assistance?	housing_dormitory
+What should I bring to the dormitory?	housing_dormitory
+How to register guests/visitors?	housing_dormitory
+Are there gender-specific housing options?	housing_dormitory
+What's the policy on noise in dormitories?	housing_dormitory
+How to get housing for summer sessions?	housing_dormitory
+Can international students get priority housing?	housing_dormitory
+What security measures are in dormitories?	housing_dormitory
+How to apply for family housing?	housing_dormitory
+Are there substance-free housing options?	housing_dormitory
+What Internet/WiFi is available in dorms?	housing_dormitory
+How to apply for graduate student housing?	housing_dormitory
+What transportation is available from dorms?	housing_dormitory
+Can I store my belongings during breaks?	housing_dormitory
+How to get housing accessibility accommodations?	housing_dormitory
+What happens if I damage dormitory property?	housing_dormitory
+Help finding internships	internship_support
+Internship requirements for my program	internship_support
+How to register internship credits?	internship_support
+Internship coordinator contact	internship_support
+Internship agreement forms	internship_support
+Can I do an internship abroad?	internship_support
+How to find paid internships?	internship_support
+What's the minimum internship duration?	internship_support
+Can I get academic credit for internships?	internship_support
+How to document internship experience?	internship_support
+What if my internship doesn't work out?	internship_support
+Can I do multiple internships?	internship_support
+How to prepare for internship interviews?	internship_support
+What are the internship evaluation criteria?	internship_support
+Can I do a virtual/remote internship?	internship_support
+How to find internships in my field?	internship_support
+What companies partner with HNU for internships?	internship_support
+How to write internship reports?	internship_support
+Can internships lead to job offers?	internship_support
+What insurance coverage do I need for internships?	internship_support
+How to balance internships with coursework?	internship_support
+Can I do internships during the academic year?	internship_support
+What skills should I develop before interning?	internship_support
+How to negotiate internship terms?	internship_support
+Can I change internship placements?	internship_support
+What support is available during internships?	internship_support
+How to network effectively during internships?	internship_support
+Can I get funding for unpaid internships?	internship_support
+What's the internship application timeline?	internship_support
+How to make the most of my internship experience?	internship_support
+Student counseling services	student_services
+Academic advising appointment	student_services
+Student support services	student_services
+Mental health resources	student_services
+Career guidance help	student_services
+How to access disability services?	student_services
+Student advocacy services	student_services
+Peer tutoring programs	student_services
+Study skills workshops	student_services
+Time management help	student_services
+Stress management resources	student_services
+How to report academic misconduct?	student_services
+Student grievance procedures	student_services
+Emergency support services	student_services
+International student services	student_services
+LGBTQ+ student resources	student_services
+Religious and spiritual services	student_services
+Student wellness programs	student_services
+Conflict resolution services	student_services
+Academic probation support	student_services
+Transfer student services	student_services
+First-generation student support	student_services
+Student leadership opportunities	student_services
+Community service programs	student_services
+Student organization support	student_services
+Event planning assistance	student_services
+Student media resources	student_services
+Graduate student services	student_services
+Student parent resources	student_services
+Crisis intervention services	student_services
+Student clubs and organizations	campus_life
+Campus events calendar	campus_life
+Sports and recreation facilities	campus_life
+Student government information	campus_life
+Campus dining options	campus_life
+Transportation around campus	campus_life
+Campus safety and security	campus_life
+Student newspaper and media	campus_life
+Volunteer opportunities	campus_life
+Cultural events and programs	campus_life
+How to start a new club?	campus_life
+Campus fitness center access	campus_life
+Study abroad programs	campus_life
+Student parking information	campus_life
+Campus bookstore hours	campus_life
+Lost and found services	campus_life
+Campus Wi-Fi access	campus_life
+Student discount programs	campus_life
+Campus sustainability initiatives	campus_life
+Alumni networking events	campus_life
+Campus tours for visitors	campus_life
+Student employment opportunities	campus_life
+Campus emergency procedures	campus_life
+Religious services on campus	campus_life
+Campus art and cultural venues	campus_life
+Student health services	campus_life
+Campus childcare services	campus_life
+Bike rental and maintenance	campus_life
+Campus recycling programs	campus_life
+Student feedback and suggestions	campus_life
+WiFi connection problems	technology_support
+Student email setup	technology_support
+Learning management system help	technology_support
+Campus computer lab access	technology_support
+Software download and licensing	technology_support
+Password reset for student accounts	technology_support
+Online course technical issues	technology_support
+Printing services on campus	technology_support
+Mobile app support	technology_support
+Video conferencing help	technology_support
+How to connect to campus network?	technology_support
+Student portal login issues	technology_support
+File sharing and cloud storage	technology_support
+Antivirus software for students	technology_support
+Technology training workshops	technology_support
+Equipment borrowing policies	technology_support
+Computer repair services	technology_support
+Academic software training	technology_support
+Digital accessibility support	technology_support
+Online exam technical support	technology_support
+Virtual classroom assistance	technology_support
+Student technology requirements	technology_support
+Campus network security	technology_support
+Multi-factor authentication setup	technology_support
+Technology incident reporting	technology_support
+Student data privacy information	technology_support
+Remote access to campus resources	technology_support
+Technology fee information	technology_support
+Student laptop recommendations	technology_support
+Technology orientation for new students	technology_support
+How to schedule academic advising?	academic_advising
+Degree planning assistance	academic_advising
+Course selection help	academic_advising
+Major declaration process	academic_advising
+Minor program information	academic_advising
+Transfer credit evaluation	academic_advising
+Graduation requirements check	academic_advising
+Academic progress monitoring	academic_advising
+Study plan development	academic_advising
+Career path guidance	academic_advising
+Graduate school preparation	academic_advising
+Academic goal setting	academic_advising
+Time to degree analysis	academic_advising
+Course prerequisite information	academic_advising
+Academic policy clarification	academic_advising
+Double major feasibility	academic_advising
+Study abroad academic planning	academic_advising
+Academic probation support	academic_advising
+Honors program requirements	academic_advising
+Independent study opportunities	academic_advising
+Research project guidance	academic_advising
+Thesis or capstone planning	academic_advising
+Academic calendar deadlines	academic_advising
+Registration holds resolution	academic_advising
+Academic appeal processes	academic_advising
+Faculty mentorship programs	academic_advising
+Professional development planning	academic_advising
+Skills assessment and development	academic_advising
+Academic resource recommendations	academic_advising
+Student success strategies	academic_advising
+Course catalog and descriptions	course_information
+Class schedule information	course_information
+Course availability check	course_information
+Prerequisite requirements	course_information
+Course credit hours	course_information
+Class format information	course_information
+Professor and instructor details	course_information
+Course syllabus access	course_information
+Textbook requirements	course_information
+Course fee information	course_information
+Lab and discussion sections	course_information
+Course capacity and enrollment	course_information
+Waitlist procedures	course_information
+Course substitution requests	course_information
+Cross-listed course information	course_information
+Online vs in-person courses	course_information
+Intensive and weekend courses	course_information
+Summer course offerings	course_information
+Course evaluation and ratings	course_information
+Special topics courses	course_information
+Graduate-level course access	course_information
+Interdisciplinary program courses	course_information
+Language of instruction	course_information
+Course withdrawal deadlines	course_information
+Pass/fail grading options	course_information
+Course repeat policies	course_information
+Audit course procedures	course_information
+Field study and practicum courses	course_information
+Course learning outcomes	course_information
+Academic level requirements	course_information
+Career counseling appointments	career_services
+Resume and CV writing help	career_services
+Job search strategies	career_services
+Interview preparation	career_services
+Career fair information	career_services
+Networking opportunities	career_services
+LinkedIn profile optimization	career_services
+Industry research assistance	career_services
+Salary negotiation guidance	career_services
+Professional skill development	career_services
+Cover letter writing tips	career_services
+Job application process	career_services
+Career assessment tests	career_services
+Alumni mentorship programs	career_services
+Internship to job transition	career_services
+Graduate school vs career decisions	career_services
+Professional wardrobe advice	career_services
+Job market trends analysis	career_services
+Portfolio development assistance	career_services
+Professional references guidance	career_services
+Career change support	career_services
+Entrepreneurship resources	career_services
+Professional communication skills	career_services
+Work-life balance strategies	career_services
+Remote work preparation	career_services
+Professional certification guidance	career_services
+Industry-specific job search	career_services
+Mock interview sessions	career_services
+Career exploration workshops	career_services
+Post-graduation job placement	career_services

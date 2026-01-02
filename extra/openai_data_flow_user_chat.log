@@ -1,0 +1,617 @@
+2025-10-15 18:28:10,067 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/__pycache__/chatbot.cpython-313.pyc.4414792176", inode=2857659, flags=11900, id=43381050): is_coalesced, is_created, is_file, is_modified, is_renamed
+2025-10-15 18:28:10,068 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/__pycache__/chatbot.cpython-313.pyc", inode=2857659, flags=10800, id=43381051): is_file, is_renamed
+2025-10-15 18:28:10,068 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/__pycache__/chatbot.cpython-313.pyc", inode=2540087, flags=10800, id=43381052): is_file, is_renamed
+2025-10-15 18:28:10,068 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/openai_data_flow.log", inode=2857660, flags=10100, id=43381055): is_created, is_file
+2025-10-15 18:28:10,068 - fsevents - DEBUG - queue_event FileCreatedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/__pycache__/chatbot.cpython-313.pyc.4414792176', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:10,068 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:10,068 - fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/__pycache__/chatbot.cpython-313.pyc.4414792176', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:10,068 - fsevents - DEBUG - Destination event for rename is NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/__pycache__/chatbot.cpython-313.pyc", inode=2857659, flags=10800, id=43381051)
+2025-10-15 18:28:10,069 - fsevents - DEBUG - queue_event FileMovedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/__pycache__/chatbot.cpython-313.pyc.4414792176', dest_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/__pycache__/chatbot.cpython-313.pyc', event_type='moved', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:10,069 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:10,069 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:10,071 - fsevents - DEBUG - queue_event FileDeletedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/__pycache__/chatbot.cpython-313.pyc', dest_path='', event_type='deleted', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:10,071 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:10,071 - fsevents - DEBUG - queue_event FileCreatedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/openai_data_flow.log', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:10,071 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:37,735 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py.tmp.2664.1760533117722", inode=2857828, flags=15900, id=43383911): is_coalesced, is_created, is_file, is_modified, is_owner_change, is_renamed
+2025-10-15 18:28:37,735 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py.tmp.2664.1760533117722", inode=2857828, flags=15900, id=43383911): is_coalesced, is_created, is_file, is_modified, is_owner_change, is_renamed
+2025-10-15 18:28:37,735 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py", inode=2857828, flags=10800, id=43383912): is_file, is_renamed
+2025-10-15 18:28:37,735 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py", inode=2842415, flags=10800, id=43383913): is_file, is_renamed
+2025-10-15 18:28:37,735 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py", inode=2857828, flags=10800, id=43383912): is_file, is_renamed
+2025-10-15 18:28:37,735 - fsevents - DEBUG - queue_event FileCreatedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py.tmp.2664.1760533117722', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:37,736 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py", inode=2842415, flags=10800, id=43383913): is_file, is_renamed
+2025-10-15 18:28:37,736 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:37,736 - fsevents - DEBUG - queue_event FileCreatedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py.tmp.2664.1760533117722', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:37,736 - fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py.tmp.2664.1760533117722', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:37,736 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:37,737 - fsevents - DEBUG - Destination event for rename is NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py", inode=2857828, flags=10800, id=43383912)
+2025-10-15 18:28:37,737 - fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py.tmp.2664.1760533117722', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:37,737 - fsevents - DEBUG - Destination event for rename is NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py", inode=2857828, flags=10800, id=43383912)
+2025-10-15 18:28:37,737 - fsevents - DEBUG - queue_event FileMovedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py.tmp.2664.1760533117722', dest_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py', event_type='moved', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:37,737 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:37,737 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:37,737 - fsevents - DEBUG - queue_event FileMovedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py.tmp.2664.1760533117722', dest_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py', event_type='moved', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:37,737 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:37,737 - fsevents - DEBUG - queue_event FileDeletedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py', dest_path='', event_type='deleted', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:37,738 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:37,738 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:37,738 - fsevents - DEBUG - queue_event FileDeletedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/chatbot.py', dest_path='', event_type='deleted', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:37,738 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:45,946 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py.tmp.2664.1760533125943", inode=2857893, flags=15900, id=43385155): is_coalesced, is_created, is_file, is_modified, is_owner_change, is_renamed
+2025-10-15 18:28:45,946 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py.tmp.2664.1760533125943", inode=2857893, flags=15900, id=43385155): is_coalesced, is_created, is_file, is_modified, is_owner_change, is_renamed
+2025-10-15 18:28:45,947 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py", inode=2857893, flags=10800, id=43385156): is_file, is_renamed
+2025-10-15 18:28:45,947 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py", inode=2852767, flags=10800, id=43385157): is_file, is_renamed
+2025-10-15 18:28:45,947 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py", inode=2857893, flags=10800, id=43385156): is_file, is_renamed
+2025-10-15 18:28:45,947 - fsevents - DEBUG - queue_event FileCreatedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py.tmp.2664.1760533125943', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:45,947 - fsevents - DEBUG - NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py", inode=2852767, flags=10800, id=43385157): is_file, is_renamed
+2025-10-15 18:28:45,947 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:45,947 - fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py.tmp.2664.1760533125943', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:45,948 - fsevents - DEBUG - Destination event for rename is NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py", inode=2857893, flags=10800, id=43385156)
+2025-10-15 18:28:45,948 - fsevents - DEBUG - queue_event FileCreatedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py.tmp.2664.1760533125943', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:45,948 - fsevents - DEBUG - queue_event FileMovedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py.tmp.2664.1760533125943', dest_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py', event_type='moved', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:45,948 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:45,948 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:45,948 - fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py.tmp.2664.1760533125943', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:45,949 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:45,949 - fsevents - DEBUG - Destination event for rename is NativeEvent(path="/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py", inode=2857893, flags=10800, id=43385156)
+2025-10-15 18:28:45,949 - fsevents - DEBUG - queue_event FileMovedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py.tmp.2664.1760533125943', dest_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py', event_type='moved', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:45,949 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:45,949 - fsevents - DEBUG - queue_event FileDeletedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py', dest_path='', event_type='deleted', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:45,949 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:45,949 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:28:45,950 - fsevents - DEBUG - queue_event FileDeletedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core/analyzers.py', dest_path='', event_type='deleted', is_directory=False, is_synthetic=False)
+2025-10-15 18:28:45,950 - fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/User_chat/core', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-10-15 18:38:48,239 - core.chatbot - INFO - 
+🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
+2025-10-15 18:38:48,239 - core.chatbot - INFO - 🎯 NEW MESSAGE PROCESSING STARTED
+2025-10-15 18:38:48,239 - core.chatbot - INFO - 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
+2025-10-15 18:38:48,239 - core.chatbot - INFO - 📝 Message: hello
+2025-10-15 18:38:48,239 - core.chatbot - INFO - 👤 User Type: student
+2025-10-15 18:38:48,239 - core.chatbot - INFO - 🆔 User ID: QK51
+2025-10-15 18:38:48,239 - core.chatbot - INFO - 🔑 Session ID: None
+2025-10-15 18:38:48,239 - core.chatbot - INFO - 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
+
+2025-10-15 18:38:48,239 - core.chatbot - INFO - 🔄 Running LangGraph workflow...
+2025-10-15 18:38:48,443 - core.analyzers - INFO - 
+🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬
+2025-10-15 18:38:48,443 - core.analyzers - INFO - 🔬 ANALYZER: MESSAGE ANALYSIS STARTED
+2025-10-15 18:38:48,443 - core.analyzers - INFO - 🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬
+2025-10-15 18:38:48,443 - core.analyzers - INFO - 📝 Text: hello
+2025-10-15 18:38:48,443 - core.analyzers - INFO - 👤 User Type: student
+2025-10-15 18:38:48,443 - core.analyzers - INFO - 🌍 Language: nl
+2025-10-15 18:38:48,443 - core.analyzers - INFO - 📊 User Stats Available: True
+2025-10-15 18:38:48,443 - core.analyzers - INFO - 
+🎯 STEP 1: Intent Classification
+2025-10-15 18:38:48,444 - core.analyzers - INFO -    Classifying: 'hello'
+2025-10-15 18:38:48,444 - core.analyzers - INFO -    Parameters: user_type=student, language=nl
+2025-10-15 18:38:48,448 - core.analyzers - INFO -    ✅ Intent: general_query
+2025-10-15 18:38:48,448 - core.analyzers - INFO -    ├─ Confidence: 0.2188
+2025-10-15 18:38:48,448 - core.analyzers - INFO -    ├─ Is Negative: False
+2025-10-15 18:38:48,448 - core.analyzers - INFO -    └─ Description: General Query
+2025-10-15 18:38:48,448 - core.analyzers - INFO - 
+😊 STEP 2: Sentiment Analysis
+2025-10-15 18:38:48,448 - core.analyzers - INFO -    Analyzing sentiment with intent=general_query, is_negative=False
+2025-10-15 18:38:48,448 - core.analyzers - ERROR -    ❌ Sentiment analysis error: 'nl'
+2025-10-15 18:38:48,448 - core.analyzers - INFO - 
+📚 STEP 3: ChromaDB Semantic Search
+2025-10-15 18:38:48,448 - core.analyzers - INFO -    Searching ChromaDB: /Users/yatin/Desktop/thesis_nishtha_2025/HNUChatbot/data/chromadb
+2025-10-15 18:38:48,448 - core.analyzers - INFO -    Query: hello
+2025-10-15 18:38:48,601 - core.analyzers - ERROR -    ❌ ChromaDB search error: Expected where to have exactly one operator, got {'language': 'nl', 'user_type': 'student'} in query.
+2025-10-15 18:38:48,603 - core.analyzers - INFO - 
+📊 STEP 4: User Pattern Analysis
+2025-10-15 18:38:48,603 - core.analyzers - INFO -    Analyzing patterns from user stats...
+2025-10-15 18:38:48,603 - core.analyzers - INFO -    ✅ Patterns identified: ['is_returning_user', 'interaction_count', 'has_history', 'most_common_intent', 'repeated_topic', 'sentiment_trend', 'avg_lead_score']
+2025-10-15 18:38:48,603 - core.analyzers - INFO - 
+🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬
+2025-10-15 18:38:48,603 - core.analyzers - INFO - ✅ ANALYZER: MESSAGE ANALYSIS COMPLETED
+2025-10-15 18:38:48,603 - core.analyzers - INFO - 🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬🔬
+
+2025-10-15 18:38:48,604 - core.chatbot - INFO - 
+🤖 RESPONSE GENERATION STARTED
+2025-10-15 18:38:48,604 - core.chatbot - INFO -    ├─ Topic: general
+2025-10-15 18:38:48,604 - core.chatbot - INFO -    ├─ Intent: general_query
+2025-10-15 18:38:48,604 - core.chatbot - INFO -    ├─ User Type: student
+2025-10-15 18:38:48,604 - core.chatbot - INFO -    └─ Language: nl
+2025-10-15 18:38:48,604 - core.chatbot - INFO -    📍 Response Path: General Response
+2025-10-15 18:38:48,604 - core.chatbot - INFO -    ✅ Base response generated: 241 chars
+2025-10-15 18:38:48,604 - core.chatbot - INFO -    🚀 Enhancing with OpenAI GPT-4o-mini...
+2025-10-15 18:38:48,604 - core.chatbot - INFO - ================================================================================
+2025-10-15 18:38:48,604 - core.chatbot - INFO - 🚀 STARTING OPENAI API CALL - COMPLETE DATA FLOW
+2025-10-15 18:38:48,604 - core.chatbot - INFO - ================================================================================
+2025-10-15 18:38:48,605 - core.chatbot - INFO - 📥 INPUT DATA EXTRACTION:
+2025-10-15 18:38:48,605 - core.chatbot - INFO -    ├─ User Message: hello
+2025-10-15 18:38:48,605 - core.chatbot - INFO -    ├─ User Type: student
+2025-10-15 18:38:48,605 - core.chatbot - INFO -    ├─ Language: nl
+2025-10-15 18:38:48,605 - core.chatbot - INFO -    ├─ Message Length: 5 chars, 1 words
+2025-10-15 18:38:48,605 - core.chatbot - INFO -    └─ Base Response Length: 241 chars
+2025-10-15 18:38:48,605 - core.chatbot - INFO - 
+🔍 ANALYSIS RESULTS:
+2025-10-15 18:38:48,605 - core.chatbot - INFO -    ├─ Intent: general_query
+2025-10-15 18:38:48,605 - core.chatbot - INFO -    ├─ Intent Confidence: 0.2188
+2025-10-15 18:38:48,606 - core.chatbot - INFO -    ├─ Sentiment: neutral
+2025-10-15 18:38:48,606 - core.chatbot - INFO -    ├─ Sentiment Confidence: 0.5000
+2025-10-15 18:38:48,606 - core.chatbot - INFO -    ├─ Lead Score: 50
+2025-10-15 18:38:48,606 - core.chatbot - INFO -    ├─ Is Negative Intent: False
+2025-10-15 18:38:48,606 - core.chatbot - INFO -    └─ Bias Level: low
+2025-10-15 18:38:48,606 - core.chatbot - INFO - 
+👤 USER IDENTIFICATION:
+2025-10-15 18:38:48,606 - core.chatbot - INFO -    ├─ User ID: QK51
+2025-10-15 18:38:48,606 - core.chatbot - INFO -    ├─ Session ID: None
+2025-10-15 18:38:48,606 - core.chatbot - INFO -    └─ Analyzer Available: True
+2025-10-15 18:38:48,606 - core.chatbot - INFO - 
+🔄 SEARCHING FOR SIMILAR PREVIOUS CHATS...
+2025-10-15 18:38:48,606 - core.chatbot - INFO -    ⚠️ No similar chat found
+2025-10-15 18:38:48,606 - core.chatbot - INFO - 
+📊 SESSION STATISTICS:
+2025-10-15 18:38:48,606 - core.chatbot - INFO - 
+📝 No similar previous chat found
+2025-10-15 18:38:48,606 - core.chatbot - INFO - 
+📚 FAISS KNOWLEDGE BASE CONTEXT:
+2025-10-15 18:38:48,606 - core.chatbot - INFO -    No FAISS context available
+2025-10-15 18:38:48,606 - core.chatbot - INFO - 
+💬 CONVERSATION HISTORY:
+2025-10-15 18:38:48,606 - core.chatbot - INFO -    Total messages in current session: 1
+2025-10-15 18:38:48,606 - core.chatbot - INFO - 
+================================================================================
+2025-10-15 18:38:48,606 - core.chatbot - INFO - 📤 COMPLETE OPENAI API REQUEST
+2025-10-15 18:38:48,606 - core.chatbot - INFO - ================================================================================
+2025-10-15 18:38:48,606 - core.chatbot - INFO - 
+🔧 API PARAMETERS:
+2025-10-15 18:38:48,606 - core.chatbot - INFO -    ├─ Model: gpt-4o-mini
+2025-10-15 18:38:48,606 - core.chatbot - INFO -    ├─ Max Tokens: 300
+2025-10-15 18:38:48,606 - core.chatbot - INFO -    ├─ Temperature: 0.7
+2025-10-15 18:38:48,607 - core.chatbot - INFO -    └─ Number of Messages: 2
+2025-10-15 18:38:48,607 - core.chatbot - INFO - 
+📋 MESSAGE 1 (SYSTEM PROMPT):
+2025-10-15 18:38:48,607 - core.chatbot - INFO -    Role: system
+2025-10-15 18:38:48,607 - core.chatbot - INFO -    Content Length: 863 chars
+2025-10-15 18:38:48,607 - core.chatbot - INFO -    Full Content:
+2025-10-15 18:38:48,607 - core.chatbot - INFO - --------------------------------------------------------------------------------
+2025-10-15 18:38:48,607 - core.chatbot - INFO - You are a helpful, professional assistant for HNU (Hochschule Neu-Ulm University) in Germany.
+
+**User Information:**
+- Type: student
+- Language: nl
+
+**Context:**
+
+Detected Intent: general_query
+User Sentiment: neutral (Lead Score: 50)
+
+
+**Instructions:**
+1. Provide a helpful, accurate response based on the knowledge base context above
+2. **Use the conversation history** to maintain context and avoid repeating information
+3. **Adapt tone based on sentiment**: Be clear and informative
+4. If similar previous discussion exists (from old sessions), acknowledge it naturally (e.g., "As we discussed before..." or "Building on our previous conversation...")
+5. Reference their previous interactions and patterns if applicable
+6. Keep response concise (2-4 sentences max)
+7. Include contact info if relevant: info@hnu.de or specific department
+8. Respond in English
+2025-10-15 18:38:48,607 - core.chatbot - INFO - --------------------------------------------------------------------------------
+2025-10-15 18:38:48,607 - core.chatbot - INFO - 
+📋 MESSAGE 2 (USER MESSAGE):
+2025-10-15 18:38:48,607 - core.chatbot - INFO -    Role: user
+2025-10-15 18:38:48,607 - core.chatbot - INFO -    Content Length: 5 chars
+2025-10-15 18:38:48,607 - core.chatbot - INFO -    Content: hello
+2025-10-15 18:38:48,607 - core.chatbot - INFO - 
+📦 COMPLETE JSON PAYLOAD:
+2025-10-15 18:38:48,607 - core.chatbot - INFO - {
+  "model": "gpt-4o-mini",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a helpful, professional assistant for HNU (Hochschule Neu-Ulm University) in Germany.\n\n**User Information:**\n- Type: student\n- Language: nl\n\n**Context:**\n\nDetected Intent: general_query\nUser Sentiment: neutral (Lead Score: 50)\n\n\n**Instructions:**\n1. Provide a helpful, accurate response based on the knowledge base context above\n2. **Use the conversation history** to maintain context and avoid repeating information\n3. **Adapt tone based on sentiment**: Be clear and informative\n4. If similar previous discussion exists (from old sessions), acknowledge it naturally (e.g., \"As we discussed before...\" or \"Building on our previous conversation...\")\n5. Reference their previous interactions and patterns if applicable\n6. Keep response concise (2-4 sentences max)\n7. Include contact info if relevant: info@hnu.de or specific department\n8. Respond in English"
+    },
+    {
+      "role": "user",
+      "content": "hello"
+    }
+  ],
+  "max_tokens": 300,
+  "temperature": 0.7
+}
+2025-10-15 18:38:48,607 - core.chatbot - INFO - 
+🚀 Sending request to OpenAI API...
+2025-10-15 18:38:50,789 - core.chatbot - INFO - 
+✅ OPENAI API RESPONSE RECEIVED
+2025-10-15 18:38:50,789 - core.chatbot - INFO - ================================================================================
+2025-10-15 18:38:50,789 - core.chatbot - INFO - 📥 Response ID: chatcmpl-CQvXGJd6oH0zgNg64tNOQRINyRKlO
+2025-10-15 18:38:50,789 - core.chatbot - INFO -    ├─ Model Used: gpt-4o-mini-2024-07-18
+2025-10-15 18:38:50,789 - core.chatbot - INFO -    ├─ Created: 1760533730
+2025-10-15 18:38:50,789 - core.chatbot - INFO -    ├─ Finish Reason: stop
+2025-10-15 18:38:50,789 - core.chatbot - INFO -    └─ Total Tokens: 209
+2025-10-15 18:38:50,789 - core.chatbot - INFO - 
+📊 TOKEN USAGE:
+2025-10-15 18:38:50,789 - core.chatbot - INFO -    ├─ Prompt Tokens: 200
+2025-10-15 18:38:50,789 - core.chatbot - INFO -    ├─ Completion Tokens: 9
+2025-10-15 18:38:50,789 - core.chatbot - INFO -    └─ Total Tokens: 209
+2025-10-15 18:38:50,789 - core.chatbot - INFO - 
+💬 GENERATED RESPONSE:
+2025-10-15 18:38:50,789 - core.chatbot - INFO -    Length: 34 chars
+2025-10-15 18:38:50,789 - core.chatbot - INFO -    Content:
+2025-10-15 18:38:50,789 - core.chatbot - INFO - --------------------------------------------------------------------------------
+2025-10-15 18:38:50,789 - core.chatbot - INFO - Hello! How can I assist you today?
+2025-10-15 18:38:50,789 - core.chatbot - INFO - --------------------------------------------------------------------------------
+2025-10-15 18:38:50,789 - core.chatbot - INFO - ================================================================================
+2025-10-15 18:38:50,789 - core.chatbot - INFO - ✅ OPENAI API CALL COMPLETED SUCCESSFULLY
+2025-10-15 18:38:50,789 - core.chatbot - INFO - ================================================================================
+
+2025-10-15 18:38:50,790 - core.chatbot - INFO -    ✅ GPT-4o-mini response received: 34 chars
+2025-10-15 18:38:50,793 - core.chatbot - INFO - 
+✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
+2025-10-15 18:38:50,793 - core.chatbot - INFO - 🎉 MESSAGE PROCESSING COMPLETED
+2025-10-15 18:38:50,793 - core.chatbot - INFO - ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
+2025-10-15 18:38:50,793 - core.chatbot - INFO - 📊 Final Intent: general_query
+2025-10-15 18:38:50,793 - core.chatbot - INFO - 📊 Final Topic: general
+2025-10-15 18:38:50,793 - core.chatbot - INFO - 📊 Confidence: 0.22
+2025-10-15 18:38:50,793 - core.chatbot - INFO - 📊 Sentiment: neutral
+2025-10-15 18:38:50,793 - core.chatbot - INFO - 📊 Lead Score: 50
+2025-10-15 18:38:50,793 - core.chatbot - INFO - 📊 Messages Count: 2
+2025-10-15 18:38:50,793 - core.chatbot - INFO - ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
+
+2025-10-15 18:49:40,006 - core.chatbot - INFO - 
+================================================================================
+2025-10-15 18:49:40,007 - core.chatbot - INFO - 🎯 NEW MESSAGE: "hello" (User: student)
+2025-10-15 18:49:40,007 - core.chatbot - INFO - ================================================================================
+2025-10-15 18:49:40,007 - core.chatbot - INFO - 🔄 Running LangGraph workflow...
+2025-10-15 18:49:40,027 - core.chatbot - INFO - 
+🤖 RESPONSE GENERATION STARTED
+2025-10-15 18:49:40,027 - core.chatbot - INFO -    ├─ Topic: general
+2025-10-15 18:49:40,027 - core.chatbot - INFO -    ├─ Intent: general_inquiry
+2025-10-15 18:49:40,027 - core.chatbot - INFO -    ├─ User Type: student
+2025-10-15 18:49:40,027 - core.chatbot - INFO -    └─ Language: en
+2025-10-15 18:49:40,027 - core.chatbot - INFO -    📍 Response Path: General Response
+2025-10-15 18:49:40,027 - core.chatbot - INFO -    ✅ Base response generated: 241 chars
+2025-10-15 18:49:40,027 - core.chatbot - INFO -    🚀 Enhancing with OpenAI GPT-4o-mini...
+2025-10-15 18:49:40,027 - core.chatbot - INFO - ================================================================================
+2025-10-15 18:49:40,027 - core.chatbot - INFO - 🚀 STARTING OPENAI API CALL - COMPLETE DATA FLOW
+2025-10-15 18:49:40,027 - core.chatbot - INFO - ================================================================================
+2025-10-15 18:49:40,027 - core.chatbot - INFO - 📥 INPUT DATA EXTRACTION:
+2025-10-15 18:49:40,027 - core.chatbot - INFO -    ├─ User Message: hello
+2025-10-15 18:49:40,027 - core.chatbot - INFO -    ├─ User Type: student
+2025-10-15 18:49:40,027 - core.chatbot - INFO -    ├─ Language: en
+2025-10-15 18:49:40,027 - core.chatbot - INFO -    ├─ Message Length: 5 chars, 1 words
+2025-10-15 18:49:40,027 - core.chatbot - INFO -    └─ Base Response Length: 241 chars
+2025-10-15 18:49:40,027 - core.chatbot - INFO - 
+🔍 ANALYSIS RESULTS:
+2025-10-15 18:49:40,027 - core.chatbot - INFO -    ├─ Intent: N/A
+2025-10-15 18:49:40,028 - core.chatbot - INFO -    ├─ Intent Confidence: 0.0000
+2025-10-15 18:49:40,028 - core.chatbot - INFO -    ├─ Sentiment: N/A
+2025-10-15 18:49:40,028 - core.chatbot - INFO -    ├─ Sentiment Confidence: 0.0000
+2025-10-15 18:49:40,028 - core.chatbot - INFO -    ├─ Lead Score: 50
+2025-10-15 18:49:40,028 - core.chatbot - INFO -    ├─ Is Negative Intent: False
+2025-10-15 18:49:40,028 - core.chatbot - INFO -    └─ Bias Level: N/A
+2025-10-15 18:49:40,028 - core.chatbot - INFO - 
+👤 USER IDENTIFICATION:
+2025-10-15 18:49:40,028 - core.chatbot - INFO -    ├─ User ID: QK51
+2025-10-15 18:49:40,028 - core.chatbot - INFO -    ├─ Session ID: None
+2025-10-15 18:49:40,028 - core.chatbot - INFO -    └─ Analyzer Available: False
+2025-10-15 18:49:40,028 - core.chatbot - INFO - 
+📊 SESSION STATISTICS:
+2025-10-15 18:49:40,028 - core.chatbot - INFO - 
+📝 No similar previous chat found
+2025-10-15 18:49:40,028 - core.chatbot - INFO - 
+📚 FAISS KNOWLEDGE BASE CONTEXT:
+2025-10-15 18:49:40,028 - core.chatbot - INFO -    No FAISS context available
+2025-10-15 18:49:40,028 - core.chatbot - INFO - 
+💬 CONVERSATION HISTORY:
+2025-10-15 18:49:40,028 - core.chatbot - INFO -    Total messages in current session: 1
+2025-10-15 18:49:40,028 - core.chatbot - INFO - ────────────────────────────────────────────────────────────────────────────────
+2025-10-15 18:49:40,028 - core.chatbot - INFO - 📤 SENDING TO OPENAI
+2025-10-15 18:49:40,028 - core.chatbot - INFO - User Message: "hello"
+2025-10-15 18:49:40,028 - core.chatbot - INFO - System Prompt Length: 863 chars
+2025-10-15 18:49:40,028 - core.chatbot.detailed - INFO - 
+================================================================================
+2025-10-15 18:49:40,028 - core.chatbot.detailed - INFO - 📤 COMPLETE OPENAI API REQUEST (Detailed)
+2025-10-15 18:49:40,028 - core.chatbot.detailed - INFO - Model: gpt-4o-mini | Tokens: 300 | Temp: 0.7
+2025-10-15 18:49:40,029 - core.chatbot.detailed - INFO - 
+SYSTEM PROMPT:
+2025-10-15 18:49:40,029 - core.chatbot.detailed - INFO - You are a helpful, professional assistant for HNU (Hochschule Neu-Ulm University) in Germany.
+
+**User Information:**
+- Type: student
+- Language: en
+
+**Context:**
+
+Detected Intent: general_query
+User Sentiment: neutral (Lead Score: 50)
+
+
+**Instructions:**
+1. Provide a helpful, accurate response based on the knowledge base context above
+2. **Use the conversation history** to maintain context and avoid repeating information
+3. **Adapt tone based on sentiment**: Be clear and informative
+4. If similar previous discussion exists (from old sessions), acknowledge it naturally (e.g., "As we discussed before..." or "Building on our previous conversation...")
+5. Reference their previous interactions and patterns if applicable
+6. Keep response concise (2-4 sentences max)
+7. Include contact info if relevant: info@hnu.de or specific department
+8. Respond in English
+2025-10-15 18:49:40,029 - core.chatbot.detailed - INFO - 
+USER MESSAGE:
+2025-10-15 18:49:40,029 - core.chatbot.detailed - INFO - hello
+2025-10-15 18:49:40,029 - core.chatbot.detailed - INFO - 
+COMPLETE JSON PAYLOAD:
+2025-10-15 18:49:40,029 - core.chatbot.detailed - INFO - {
+  "model": "gpt-4o-mini",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a helpful, professional assistant for HNU (Hochschule Neu-Ulm University) in Germany.\n\n**User Information:**\n- Type: student\n- Language: en\n\n**Context:**\n\nDetected Intent: general_query\nUser Sentiment: neutral (Lead Score: 50)\n\n\n**Instructions:**\n1. Provide a helpful, accurate response based on the knowledge base context above\n2. **Use the conversation history** to maintain context and avoid repeating information\n3. **Adapt tone based on sentiment**: Be clear and informative\n4. If similar previous discussion exists (from old sessions), acknowledge it naturally (e.g., \"As we discussed before...\" or \"Building on our previous conversation...\")\n5. Reference their previous interactions and patterns if applicable\n6. Keep response concise (2-4 sentences max)\n7. Include contact info if relevant: info@hnu.de or specific department\n8. Respond in English"
+    },
+    {
+      "role": "user",
+      "content": "hello"
+    }
+  ],
+  "max_tokens": 300,
+  "temperature": 0.7
+}
+2025-10-15 18:49:40,029 - core.chatbot.detailed - INFO - ================================================================================
+2025-10-15 18:49:42,345 - core.chatbot - INFO - 📥 RECEIVED FROM OPENAI
+2025-10-15 18:49:42,346 - core.chatbot - INFO - Response: "Hello! How can I assist you today?"
+2025-10-15 18:49:42,346 - core.chatbot - INFO - Tokens Used: 209
+2025-10-15 18:49:42,346 - core.chatbot - INFO - ────────────────────────────────────────────────────────────────────────────────
+2025-10-15 18:49:42,346 - core.chatbot.detailed - INFO - 
+✅ OPENAI API RESPONSE RECEIVED
+2025-10-15 18:49:42,346 - core.chatbot.detailed - INFO - Response ID: chatcmpl-CQvhlINhk9umQs9VxATnsV8kBmf1s
+2025-10-15 18:49:42,346 - core.chatbot.detailed - INFO - Model: gpt-4o-mini-2024-07-18
+2025-10-15 18:49:42,346 - core.chatbot.detailed - INFO - Finish Reason: stop
+2025-10-15 18:49:42,346 - core.chatbot.detailed - INFO - Token Usage: 200 prompt + 9 completion = 209 total
+2025-10-15 18:49:42,346 - core.chatbot.detailed - INFO - Complete Response:
+Hello! How can I assist you today?
+2025-10-15 18:49:42,346 - core.chatbot.detailed - INFO - ================================================================================
+
+2025-10-15 18:49:42,346 - core.chatbot - INFO -    ✅ GPT-4o-mini response received: 34 chars
+2025-10-15 18:49:42,351 - core.chatbot - INFO - ✅ COMPLETED | Intent: general_inquiry | Sentiment: neutral | Lead: 50
+2025-10-15 18:49:42,351 - core.chatbot - INFO - ================================================================================
+
+2025-10-15 19:30:10,202 - core.chatbot - INFO - 
+================================================================================
+2025-10-15 19:30:10,203 - core.chatbot - INFO - 🎯 NEW MESSAGE: "hello" (User: student)
+2025-10-15 19:30:10,203 - core.chatbot - INFO - ================================================================================
+2025-10-15 19:30:10,203 - core.chatbot - INFO - 🔄 Running LangGraph workflow...
+2025-10-15 19:30:10,401 - core.analyzers - INFO - 🔬 Analyzing: "hello" | Type: student | Lang: fi
+2025-10-15 19:30:10,405 - core.analyzers - INFO -    ✅ Intent: general_query (0.22)
+2025-10-15 19:30:10,405 - core.analyzers - ERROR -    ❌ Sentiment error: 'fi'
+2025-10-15 19:30:10,582 - core.analyzers - ERROR -    ❌ ChromaDB error: Expected where to have exactly one operator, got {'language': 'fi', 'user_type': 'student'} in query.
+2025-10-15 19:30:10,585 - core.chatbot - INFO - 
+🤖 RESPONSE GENERATION STARTED
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ├─ Topic: general
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ├─ Intent: general_query
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ├─ User Type: student
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    └─ Language: fi
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    📍 Response Path: General Response
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ✅ Base response generated: 241 chars
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    🚀 Enhancing with OpenAI GPT-4o-mini...
+2025-10-15 19:30:10,586 - core.chatbot - INFO - ================================================================================
+2025-10-15 19:30:10,586 - core.chatbot - INFO - 🚀 STARTING OPENAI API CALL - COMPLETE DATA FLOW
+2025-10-15 19:30:10,586 - core.chatbot - INFO - ================================================================================
+2025-10-15 19:30:10,586 - core.chatbot - INFO - 📥 INPUT DATA EXTRACTION:
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ├─ User Message: hello
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ├─ User Type: student
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ├─ Language: fi
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ├─ Message Length: 5 chars, 1 words
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    └─ Base Response Length: 241 chars
+2025-10-15 19:30:10,586 - core.chatbot - INFO - 
+🔍 ANALYSIS RESULTS:
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ├─ Intent: general_query
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ├─ Intent Confidence: 0.2188
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ├─ Sentiment: neutral
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ├─ Sentiment Confidence: 0.5000
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ├─ Lead Score: 50
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ├─ Is Negative Intent: False
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    └─ Bias Level: low
+2025-10-15 19:30:10,586 - core.chatbot - INFO - 
+👤 USER IDENTIFICATION:
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ├─ User ID: QK51
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ├─ Session ID: None
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    └─ Analyzer Available: True
+2025-10-15 19:30:10,586 - core.chatbot - INFO - 
+🔄 SEARCHING FOR SIMILAR PREVIOUS CHATS...
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    ⚠️ No similar chat found
+2025-10-15 19:30:10,586 - core.chatbot - INFO - 
+📊 SESSION STATISTICS:
+2025-10-15 19:30:10,586 - core.chatbot - INFO - 
+📝 No similar previous chat found
+2025-10-15 19:30:10,586 - core.chatbot - INFO - 
+📚 FAISS KNOWLEDGE BASE CONTEXT:
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    No FAISS context available
+2025-10-15 19:30:10,586 - core.chatbot - INFO - 
+💬 CONVERSATION HISTORY:
+2025-10-15 19:30:10,586 - core.chatbot - INFO -    Total messages in current session: 1
+2025-10-15 19:30:10,586 - core.chatbot - INFO - ────────────────────────────────────────────────────────────────────────────────
+2025-10-15 19:30:10,586 - core.chatbot - INFO - 📤 SENDING TO OPENAI
+2025-10-15 19:30:10,586 - core.chatbot - INFO - User Message: "hello"
+2025-10-15 19:30:10,586 - core.chatbot - INFO - System Prompt Length: 863 chars
+2025-10-15 19:30:10,586 - core.chatbot.detailed - INFO - 
+================================================================================
+2025-10-15 19:30:10,586 - core.chatbot.detailed - INFO - 📤 COMPLETE OPENAI API REQUEST (Detailed)
+2025-10-15 19:30:10,587 - core.chatbot.detailed - INFO - Model: gpt-4o-mini | Tokens: 300 | Temp: 0.7
+2025-10-15 19:30:10,587 - core.chatbot.detailed - INFO - 
+SYSTEM PROMPT:
+2025-10-15 19:30:10,587 - core.chatbot.detailed - INFO - You are a helpful, professional assistant for HNU (Hochschule Neu-Ulm University) in Germany.
+
+**User Information:**
+- Type: student
+- Language: fi
+
+**Context:**
+
+Detected Intent: general_query
+User Sentiment: neutral (Lead Score: 50)
+
+
+**Instructions:**
+1. Provide a helpful, accurate response based on the knowledge base context above
+2. **Use the conversation history** to maintain context and avoid repeating information
+3. **Adapt tone based on sentiment**: Be clear and informative
+4. If similar previous discussion exists (from old sessions), acknowledge it naturally (e.g., "As we discussed before..." or "Building on our previous conversation...")
+5. Reference their previous interactions and patterns if applicable
+6. Keep response concise (2-4 sentences max)
+7. Include contact info if relevant: info@hnu.de or specific department
+8. Respond in English
+2025-10-15 19:30:10,587 - core.chatbot.detailed - INFO - 
+USER MESSAGE:
+2025-10-15 19:30:10,587 - core.chatbot.detailed - INFO - hello
+2025-10-15 19:30:10,587 - core.chatbot.detailed - INFO - 
+COMPLETE JSON PAYLOAD:
+2025-10-15 19:30:10,587 - core.chatbot.detailed - INFO - {
+  "model": "gpt-4o-mini",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a helpful, professional assistant for HNU (Hochschule Neu-Ulm University) in Germany.\n\n**User Information:**\n- Type: student\n- Language: fi\n\n**Context:**\n\nDetected Intent: general_query\nUser Sentiment: neutral (Lead Score: 50)\n\n\n**Instructions:**\n1. Provide a helpful, accurate response based on the knowledge base context above\n2. **Use the conversation history** to maintain context and avoid repeating information\n3. **Adapt tone based on sentiment**: Be clear and informative\n4. If similar previous discussion exists (from old sessions), acknowledge it naturally (e.g., \"As we discussed before...\" or \"Building on our previous conversation...\")\n5. Reference their previous interactions and patterns if applicable\n6. Keep response concise (2-4 sentences max)\n7. Include contact info if relevant: info@hnu.de or specific department\n8. Respond in English"
+    },
+    {
+      "role": "user",
+      "content": "hello"
+    }
+  ],
+  "max_tokens": 300,
+  "temperature": 0.7
+}
+2025-10-15 19:30:10,587 - core.chatbot.detailed - INFO - ================================================================================
+2025-10-15 19:30:12,341 - core.chatbot - INFO - 📥 RECEIVED FROM OPENAI
+2025-10-15 19:30:12,341 - core.chatbot - INFO - Response: "Hello! How can I assist you today?"
+2025-10-15 19:30:12,341 - core.chatbot - INFO - Tokens Used: 209
+2025-10-15 19:30:12,341 - core.chatbot - INFO - ────────────────────────────────────────────────────────────────────────────────
+2025-10-15 19:30:12,341 - core.chatbot.detailed - INFO - 
+✅ OPENAI API RESPONSE RECEIVED
+2025-10-15 19:30:12,341 - core.chatbot.detailed - INFO - Response ID: chatcmpl-CQwKx6hlwnWOzuUYR9wYG2t4Xq8kL
+2025-10-15 19:30:12,342 - core.chatbot.detailed - INFO - Model: gpt-4o-mini-2024-07-18
+2025-10-15 19:30:12,342 - core.chatbot.detailed - INFO - Finish Reason: stop
+2025-10-15 19:30:12,342 - core.chatbot.detailed - INFO - Token Usage: 200 prompt + 9 completion = 209 total
+2025-10-15 19:30:12,342 - core.chatbot.detailed - INFO - Complete Response:
+Hello! How can I assist you today?
+2025-10-15 19:30:12,342 - core.chatbot.detailed - INFO - ================================================================================
+
+2025-10-15 19:30:12,342 - core.chatbot - INFO -    ✅ GPT-4o-mini response received: 34 chars
+2025-10-15 19:30:12,345 - core.chatbot - INFO - ✅ COMPLETED | Intent: general_query | Sentiment: neutral | Lead: 50
+2025-10-15 19:30:12,345 - core.chatbot - INFO - ================================================================================
+
+2025-10-15 19:31:15,521 - core.chatbot - INFO - 
+================================================================================
+2025-10-15 19:31:15,521 - core.chatbot - INFO - 🎯 NEW MESSAGE: "Hello" (User: student)
+2025-10-15 19:31:15,522 - core.chatbot - INFO - ================================================================================
+2025-10-15 19:31:15,522 - core.chatbot - INFO - 🔄 Running LangGraph workflow...
+2025-10-15 19:31:15,723 - core.analyzers - INFO - 🔬 Analyzing: "Hello" | Type: student | Lang: no
+2025-10-15 19:31:15,727 - core.analyzers - INFO -    ✅ Intent: general_query (0.22)
+2025-10-15 19:31:15,728 - core.analyzers - ERROR -    ❌ Sentiment error: 'no'
+2025-10-15 19:31:15,869 - core.analyzers - ERROR -    ❌ ChromaDB error: Expected where to have exactly one operator, got {'language': 'no', 'user_type': 'student'} in query.
+2025-10-15 19:31:15,874 - core.chatbot - INFO - 
+🤖 RESPONSE GENERATION STARTED
+2025-10-15 19:31:15,874 - core.chatbot - INFO -    ├─ Topic: general
+2025-10-15 19:31:15,874 - core.chatbot - INFO -    ├─ Intent: general_query
+2025-10-15 19:31:15,874 - core.chatbot - INFO -    ├─ User Type: student
+2025-10-15 19:31:15,874 - core.chatbot - INFO -    └─ Language: no
+2025-10-15 19:31:15,874 - core.chatbot - INFO -    📍 Response Path: General Response
+2025-10-15 19:31:15,874 - core.chatbot - INFO -    ✅ Base response generated: 241 chars
+2025-10-15 19:31:15,874 - core.chatbot - INFO -    🚀 Enhancing with OpenAI GPT-4o-mini...
+2025-10-15 19:31:15,874 - core.chatbot - INFO - ================================================================================
+2025-10-15 19:31:15,874 - core.chatbot - INFO - 🚀 STARTING OPENAI API CALL - COMPLETE DATA FLOW
+2025-10-15 19:31:15,875 - core.chatbot - INFO - ================================================================================
+2025-10-15 19:31:15,875 - core.chatbot - INFO - 📥 INPUT DATA EXTRACTION:
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    ├─ User Message: Hello
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    ├─ User Type: student
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    ├─ Language: no
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    ├─ Message Length: 5 chars, 1 words
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    └─ Base Response Length: 241 chars
+2025-10-15 19:31:15,875 - core.chatbot - INFO - 
+🔍 ANALYSIS RESULTS:
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    ├─ Intent: general_query
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    ├─ Intent Confidence: 0.2188
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    ├─ Sentiment: neutral
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    ├─ Sentiment Confidence: 0.5000
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    ├─ Lead Score: 50
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    ├─ Is Negative Intent: False
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    └─ Bias Level: low
+2025-10-15 19:31:15,875 - core.chatbot - INFO - 
+👤 USER IDENTIFICATION:
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    ├─ User ID: QK51
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    ├─ Session ID: None
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    └─ Analyzer Available: True
+2025-10-15 19:31:15,875 - core.chatbot - INFO - 
+🔄 SEARCHING FOR SIMILAR PREVIOUS CHATS...
+2025-10-15 19:31:15,875 - core.chatbot - INFO -    ⚠️ No similar chat found
+2025-10-15 19:31:15,875 - core.chatbot - INFO - 
+📊 SESSION STATISTICS:
+2025-10-15 19:31:15,875 - core.chatbot - INFO - 
+📝 No similar previous chat found
+2025-10-15 19:31:15,876 - core.chatbot - INFO - 
+📚 FAISS KNOWLEDGE BASE CONTEXT:
+2025-10-15 19:31:15,876 - core.chatbot - INFO -    No FAISS context available
+2025-10-15 19:31:15,876 - core.chatbot - INFO - 
+💬 CONVERSATION HISTORY:
+2025-10-15 19:31:15,876 - core.chatbot - INFO -    Total messages in current session: 1
+2025-10-15 19:31:15,876 - core.chatbot - INFO - ────────────────────────────────────────────────────────────────────────────────
+2025-10-15 19:31:15,876 - core.chatbot - INFO - 📤 SENDING TO OPENAI
+2025-10-15 19:31:15,876 - core.chatbot - INFO - User Message: "Hello"
+2025-10-15 19:31:15,876 - core.chatbot - INFO - System Prompt Length: 863 chars
+2025-10-15 19:31:15,876 - core.chatbot.detailed - INFO - 
+================================================================================
+2025-10-15 19:31:15,876 - core.chatbot.detailed - INFO - 📤 COMPLETE OPENAI API REQUEST (Detailed)
+2025-10-15 19:31:15,876 - core.chatbot.detailed - INFO - Model: gpt-4o-mini | Tokens: 300 | Temp: 0.7
+2025-10-15 19:31:15,876 - core.chatbot.detailed - INFO - 
+SYSTEM PROMPT:
+2025-10-15 19:31:15,876 - core.chatbot.detailed - INFO - You are a helpful, professional assistant for HNU (Hochschule Neu-Ulm University) in Germany.
+
+**User Information:**
+- Type: student
+- Language: no
+
+**Context:**
+
+Detected Intent: general_query
+User Sentiment: neutral (Lead Score: 50)
+
+
+**Instructions:**
+1. Provide a helpful, accurate response based on the knowledge base context above
+2. **Use the conversation history** to maintain context and avoid repeating information
+3. **Adapt tone based on sentiment**: Be clear and informative
+4. If similar previous discussion exists (from old sessions), acknowledge it naturally (e.g., "As we discussed before..." or "Building on our previous conversation...")
+5. Reference their previous interactions and patterns if applicable
+6. Keep response concise (2-4 sentences max)
+7. Include contact info if relevant: info@hnu.de or specific department
+8. Respond in English
+2025-10-15 19:31:15,876 - core.chatbot.detailed - INFO - 
+USER MESSAGE:
+2025-10-15 19:31:15,876 - core.chatbot.detailed - INFO - Hello
+2025-10-15 19:31:15,876 - core.chatbot.detailed - INFO - 
+COMPLETE JSON PAYLOAD:
+2025-10-15 19:31:15,876 - core.chatbot.detailed - INFO - {
+  "model": "gpt-4o-mini",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a helpful, professional assistant for HNU (Hochschule Neu-Ulm University) in Germany.\n\n**User Information:**\n- Type: student\n- Language: no\n\n**Context:**\n\nDetected Intent: general_query\nUser Sentiment: neutral (Lead Score: 50)\n\n\n**Instructions:**\n1. Provide a helpful, accurate response based on the knowledge base context above\n2. **Use the conversation history** to maintain context and avoid repeating information\n3. **Adapt tone based on sentiment**: Be clear and informative\n4. If similar previous discussion exists (from old sessions), acknowledge it naturally (e.g., \"As we discussed before...\" or \"Building on our previous conversation...\")\n5. Reference their previous interactions and patterns if applicable\n6. Keep response concise (2-4 sentences max)\n7. Include contact info if relevant: info@hnu.de or specific department\n8. Respond in English"
+    },
+    {
+      "role": "user",
+      "content": "Hello"
+    }
+  ],
+  "max_tokens": 300,
+  "temperature": 0.7
+}
+2025-10-15 19:31:15,876 - core.chatbot.detailed - INFO - ================================================================================
+2025-10-15 19:31:17,504 - core.chatbot - INFO - 📥 RECEIVED FROM OPENAI
+2025-10-15 19:31:17,505 - core.chatbot - INFO - Response: "Hello! How can I assist you today?"
+2025-10-15 19:31:17,505 - core.chatbot - INFO - Tokens Used: 209
+2025-10-15 19:31:17,505 - core.chatbot - INFO - ────────────────────────────────────────────────────────────────────────────────
+2025-10-15 19:31:17,505 - core.chatbot.detailed - INFO - 
+✅ OPENAI API RESPONSE RECEIVED
+2025-10-15 19:31:17,505 - core.chatbot.detailed - INFO - Response ID: chatcmpl-CQwM0Otw6yGd10eviU91868ARl9kg
+2025-10-15 19:31:17,505 - core.chatbot.detailed - INFO - Model: gpt-4o-mini-2024-07-18
+2025-10-15 19:31:17,505 - core.chatbot.detailed - INFO - Finish Reason: stop
+2025-10-15 19:31:17,505 - core.chatbot.detailed - INFO - Token Usage: 200 prompt + 9 completion = 209 total
+2025-10-15 19:31:17,505 - core.chatbot.detailed - INFO - Complete Response:
+Hello! How can I assist you today?
+2025-10-15 19:31:17,505 - core.chatbot.detailed - INFO - ================================================================================
+
+2025-10-15 19:31:17,505 - core.chatbot - INFO -    ✅ GPT-4o-mini response received: 34 chars
+2025-10-15 19:31:17,509 - core.chatbot - INFO - ✅ COMPLETED | Intent: general_query | Sentiment: neutral | Lead: 50
+2025-10-15 19:31:17,509 - core.chatbot - INFO - ================================================================================
+
