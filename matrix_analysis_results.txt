@@ -1,0 +1,68 @@
+MASTER THESIS – MATRIX ANALYSIS RESULTS
+Generated: 2026-01-02 02:11:24.942063
+======================================================================
+
+Preference Vector:
+I contacted support last week about my Moodle login but still nothing works. Can someone finally fix this?                        0.800000
+I am not a registered student yet. Can I still access the HNU library resources as a guest?                                       0.720000
+Ich überlege an der HNU zu studieren. Kann ich als Gast an einer Vorlesung teilnehmen?                                            0.632653
+Ich habe keinen HNU-Account. Wie kann ich mich für einen Workshop anmelden?                                                       0.734694
+Ich interessiere mich für den Master artificial intelligence. Wo finde ich die aktuellen Zulassungsvoraussetzungen?               0.687500
+Mein Deutsch ist nicht so gut. Gibt es englische Informationen zur Prüfungsanmeldung?                                             0.775510
+Ich bin ein internationaler Erstsemester. Wo finde ich Informationen zu Wohnheimen?                                               0.795918
+My Buddy Program application says incomplete. What exactly am I missing?                                                          0.714286
+I’m starting next semester. Can you explain which health insurance documents I need to upload?                                    0.877551
+My exam starts tomorrow and my student ID card is not working. Can someone fix this urgently?                                     0.780000
+This is the third time my VPN access stopped working. Why does this keep happening?                                               0.729167
+I uploaded my documents twice and they still say ‘pending’. What is going on?                                                     0.687500
+Last semester I had issues with my exam schedule. How can I avoid that this time?                                                 0.720000
+I reported a grade issue two weeks ago. Why is nobody updating my transcript?                                                     0.795918
+I missed one tuition fee reminder already. Will this affect my enrollment status?                                                 0.680000
+Ich bin neu an der HNU. Wie melde ich mich zum ersten Mal im Campus-Portal an?                                                    0.780000
+I've already written twice about my semester fees, but no one has replied. What should I do?                                      0.780000
+Ich weiß, dass Prüfungsphase stressig ist, aber könnten Sie bitte meine Anfrage zum Prüfungsrücktritt prüfen? Es ist dringend.    0.840000
+Ich habe schon zweimal geschrieben wegen meinem Semesterbeitrag, aber niemand antwortet. Was soll ich tun?                        0.740000
+Wie registriere ich mich zum ersten Mal für die Prüfungen im HNU-Portal?                                                          0.840000
+Ich habe meinen HNU-Account gerade bekommen. Wie richte ich die E-Mail-Weiterleitung ein?                                         0.680000
+
+Preference Variance:
+I contacted support last week about my Moodle login but still nothing works. Can someone finally fix this?                        0.163265
+I am not a registered student yet. Can I still access the HNU library resources as a guest?                                       0.205714
+Ich überlege an der HNU zu studieren. Kann ich als Gast an einer Vorlesung teilnehmen?                                            0.237245
+Ich habe keinen HNU-Account. Wie kann ich mich für einen Workshop anmelden?                                                       0.198980
+Ich interessiere mich für den Master artificial intelligence. Wo finde ich die aktuellen Zulassungsvoraussetzungen?               0.219415
+Mein Deutsch ist nicht so gut. Gibt es englische Informationen zur Prüfungsanmeldung?                                             0.177721
+Ich bin ein internationaler Erstsemester. Wo finde ich Informationen zu Wohnheimen?                                               0.165816
+My Buddy Program application says incomplete. What exactly am I missing?                                                          0.208333
+I’m starting next semester. Can you explain which health insurance documents I need to upload?                                    0.109694
+My exam starts tomorrow and my student ID card is not working. Can someone fix this urgently?                                     0.175102
+This is the third time my VPN access stopped working. Why does this keep happening?                                               0.201684
+I uploaded my documents twice and they still say ‘pending’. What is going on?                                                     0.219415
+Last semester I had issues with my exam schedule. How can I avoid that this time?                                                 0.205714
+I reported a grade issue two weeks ago. Why is nobody updating my transcript?                                                     0.165816
+I missed one tuition fee reminder already. Will this affect my enrollment status?                                                 0.222041
+Ich bin neu an der HNU. Wie melde ich mich zum ersten Mal im Campus-Portal an?                                                    0.175102
+I've already written twice about my semester fees, but no one has replied. What should I do?                                      0.175102
+Ich weiß, dass Prüfungsphase stressig ist, aber könnten Sie bitte meine Anfrage zum Prüfungsrücktritt prüfen? Es ist dringend.    0.137143
+Ich habe schon zweimal geschrieben wegen meinem Semesterbeitrag, aber niemand antwortet. Was soll ich tun?                        0.196327
+Wie registriere ich mich zum ersten Mal für die Prüfungen im HNU-Portal?                                                          0.137143
+Ich habe meinen HNU-Account gerade bekommen. Wie richte ich die E-Mail-Weiterleitung ein?                                         0.222041
+
+Rating Correlation Matrix:
+                  Clarity  Helpfulness   Empathy  Personalization
+Clarity          1.000000     0.106121  0.022980        -0.156838
+Helpfulness      0.106121     1.000000  0.135479        -0.184301
+Empathy          0.022980     0.135479  1.000000        -0.027950
+Personalization -0.156838    -0.184301 -0.027950         1.000000
+
+Fleiss' Kappa (subsampled to n_min=48 per item): 0.0027
+Krippendorff’s Alpha: 0.9853
+
+Confusion Matrix (EN/DE × A/B):
+[[409 134]
+ [371 123]]
+
+Language Bias (EN − DE): 0.0025
+
+PCA Explained Variance:
+[0.3355 0.2767 0.2181 0.1698]

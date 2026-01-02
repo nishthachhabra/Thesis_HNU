@@ -1,0 +1,24 @@
+[
+  {"id": 1, "query": "How do I apply for admission at HNU?", "language": "en", "user_type": "student"},
+  {"id": 2, "query": "What are the tuition fees at HNU?", "language": "en", "user_type": "student"},
+  {"id": 3, "query": "Which documents are required for enrollment?", "language": "en", "user_type": "student"},
+  {"id": 4, "query": "What are the admission requirements for a master's program?", "language": "en", "user_type": "student"},
+  {"id": 5, "query": "How long does the application process take?", "language": "en", "user_type": "student"},
+  {"id": 6, "query": "Is there an application deadline?", "language": "en", "user_type": "student"},
+  {"id": 7, "query": "Can international students apply to HNU?", "language": "en", "user_type": "student"},
+  {"id": 8, "query": "What language certificates are accepted?", "language": "en", "user_type": "student"},
+  {"id": 9, "query": "Are there scholarships available?", "language": "en", "user_type": "student"},
+  {"id": 10, "query": "How can I contact the admissions office?", "language": "en", "user_type": "student"},
+  {"id": 11, "query": "Wie bewerbe ich mich an der HNU?", "language": "de", "user_type": "student"},
+  {"id": 12, "query": "Welche Zulassungsvoraussetzungen gibt es?", "language": "de", "user_type": "student"},
+  {"id": 13, "query": "Welche Unterlagen werden für die Bewerbung benötigt?", "language": "de", "user_type": "student"},
+  {"id": 14, "query": "Bis wann ist die Bewerbungsfrist?", "language": "de", "user_type": "student"},
+  {"id": 15, "query": "Wie lange dauert das Bewerbungsverfahren?", "language": "de", "user_type": "student"},
+  {"id": 16, "query": "Gibt es Studiengebühren?", "language": "de", "user_type": "student"},
+  {"id": 17, "query": "Welche Sprachkenntnisse werden verlangt?", "language": "de", "user_type": "student"},
+  {"id": 18, "query": "Kann ich mich als internationaler Studierender bewerben?", "language": "de", "user_type": "student"},
+  {"id": 19, "query": "Wie funktioniert die Einschreibung?", "language": "de", "user_type": "student"},
+  {"id": 20, "query": "An wen kann ich mich bei Fragen wenden?", "language": "de", "user_type": "student"},
+
+  {"id": 21, "query": "What study programs are offered at HNU?", "language": "en", "user_type": "student"}
+]
